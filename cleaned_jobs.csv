@@ -1,0 +1,1515 @@
+Job_Title,Average_Salary,Years_Experience,Education_Level,AI_Exposure_Index,Tech_Growth_Factor,Automation_Probability_2030,Risk_Category
+Software Engineer,136530.0,13,PhD,0.39,0.68,0.6,Medium
+AI Engineer,92592.0,11,Master's,0.29,0.51,0.1,Low
+HR Specialist,139225.0,12,Master's,0.3,0.61,0.48,Medium
+UX Researcher,82733.0,6,High School,0.5,0.8,0.41,Medium
+Lawyer,79811.0,27,High School,0.68,0.52,0.5,Medium
+Graphic Designer,32869.0,2,High School,0.65,0.72,0.58,Medium
+Teacher,36893.0,29,Bachelor's,0.97,0.89,0.27,Low
+Doctor,108069.0,15,Master's,0.55,0.8,0.15,Low
+Teacher,58251.0,25,PhD,0.08,0.53,0.29,Low
+AI Engineer,125435.0,15,PhD,0.1,0.99,0.17,Low
+Software Engineer,39540.0,12,High School,0.16,0.57,0.56,Medium
+Mechanic,68304.0,7,Master's,0.91,0.7,0.33,Medium
+HR Specialist,102936.0,18,Master's,0.09,0.82,0.68,Medium
+Teacher,114076.0,20,Master's,0.49,0.56,0.19,Low
+Retail Worker,102124.0,11,Bachelor's,0.56,0.92,0.93,High
+Truck Driver,91629.0,24,High School,0.37,0.79,0.92,High
+Mechanic,59703.0,25,Bachelor's,0.19,0.96,0.44,Medium
+Construction Worker,134680.0,11,PhD,0.21,0.86,0.83,High
+Data Scientist,97067.0,12,High School,0.87,0.85,0.46,Medium
+Construction Worker,37561.0,2,Master's,0.65,0.98,0.85,High
+Teacher,142581.0,4,High School,0.93,0.51,0.11,Low
+Security Guard,117958.0,9,High School,0.99,0.82,0.9,High
+AI Engineer,97444.0,23,High School,0.99,0.71,0.14,Low
+AI Engineer,30077.0,25,High School,0.91,0.82,0.2,Low
+UX Researcher,148721.0,13,High School,0.07,0.73,0.52,Medium
+Data Scientist,50103.0,4,Master's,0.49,0.91,0.61,Medium
+Doctor,95310.0,25,Bachelor's,0.07,0.58,0.08,Low
+Research Scientist,71914.0,11,Master's,0.91,0.75,0.19,Low
+UX Researcher,82603.0,0,High School,0.03,0.66,0.59,Medium
+Security Guard,131358.0,7,Bachelor's,0.1,0.74,0.88,High
+Graphic Designer,53752.0,21,Master's,0.65,0.92,0.35,Medium
+AI Engineer,108411.0,22,PhD,0.11,0.64,0.12,Low
+Chef,116145.0,27,Master's,0.96,0.68,0.34,Medium
+Data Scientist,124613.0,4,High School,0.48,0.77,0.52,Medium
+Marketing Manager,30060.0,10,PhD,0.6,0.96,0.33,Medium
+Construction Worker,67641.0,15,PhD,0.93,0.68,0.84,High
+Research Scientist,67265.0,26,Master's,0.83,0.54,0.2,Low
+Mechanic,59629.0,16,High School,0.4,0.98,0.55,Medium
+Data Scientist,85619.0,17,Bachelor's,0.23,0.54,0.31,Medium
+Software Engineer,136506.0,29,PhD,0.61,0.67,0.7,Medium
+Marketing Manager,55559.0,27,Master's,0.37,0.76,0.59,Medium
+Nurse,54860.0,11,High School,0.75,0.63,0.24,Low
+Retail Worker,58602.0,19,High School,0.4,0.77,0.95,High
+Doctor,41536.0,29,PhD,0.69,0.93,0.1,Low
+Marketing Manager,113309.0,14,Master's,0.6,0.79,0.58,Medium
+AI Engineer,78787.0,0,Master's,0.56,0.51,0.13,Low
+Graphic Designer,98577.0,9,High School,0.17,0.6,0.55,Medium
+HR Specialist,75500.0,28,Bachelor's,0.42,0.7,0.64,Medium
+Truck Driver,95128.0,3,PhD,0.03,0.9,0.85,High
+UX Researcher,49975.0,3,High School,0.91,0.68,0.4,Medium
+HR Specialist,106619.0,29,High School,0.15,0.95,0.54,Medium
+AI Engineer,55611.0,9,High School,0.4,0.98,0.22,Low
+Customer Support,143942.0,18,Bachelor's,0.87,0.88,0.77,High
+Mechanic,109973.0,25,High School,0.59,0.67,0.56,Medium
+Truck Driver,57598.0,11,PhD,0.48,0.89,0.84,High
+Doctor,75379.0,20,Bachelor's,0.48,0.69,0.09,Low
+HR Specialist,130441.0,24,High School,0.52,0.62,0.64,Medium
+UX Researcher,72668.0,9,High School,0.11,0.5,0.56,Medium
+Data Scientist,140641.0,23,Master's,0.82,0.92,0.57,Medium
+Data Scientist,92438.0,23,Bachelor's,0.13,0.6,0.59,Medium
+Mechanic,40754.0,15,PhD,0.38,0.62,0.69,Medium
+Retail Worker,40699.0,5,Bachelor's,0.16,0.56,0.73,High
+Software Engineer,70461.0,8,High School,0.32,0.52,0.36,Medium
+Doctor,125694.0,8,PhD,0.43,0.67,0.07,Low
+Research Scientist,40634.0,20,PhD,0.84,0.6,0.17,Low
+Nurse,37099.0,22,High School,0.52,0.65,0.23,Low
+Data Scientist,91063.0,7,Master's,0.62,0.88,0.38,Medium
+Mechanic,32461.0,19,High School,0.12,0.7,0.65,Medium
+Research Scientist,77701.0,9,Bachelor's,0.76,0.54,0.24,Low
+Data Scientist,49715.0,29,Master's,0.73,1.0,0.47,Medium
+Lawyer,122573.0,21,High School,0.26,0.75,0.66,Medium
+Graphic Designer,133864.0,20,Master's,0.53,0.91,0.44,Medium
+Doctor,49446.0,0,Master's,0.52,0.61,0.27,Low
+Nurse,98673.0,9,Master's,0.46,0.91,0.21,Low
+Financial Analyst,72951.0,11,High School,0.54,1.0,0.34,Medium
+Construction Worker,37239.0,22,High School,0.64,0.7,0.92,High
+Marketing Manager,120301.0,0,Master's,0.24,0.64,0.44,Medium
+HR Specialist,117969.0,1,PhD,0.31,0.5,0.57,Medium
+Teacher,95677.0,3,Master's,0.38,0.63,0.15,Low
+Research Scientist,53567.0,28,Bachelor's,0.84,0.79,0.16,Low
+Mechanic,100194.0,21,High School,0.12,0.65,0.37,Medium
+UX Researcher,123547.0,1,High School,0.38,0.95,0.53,Medium
+HR Specialist,107362.0,17,Master's,0.31,0.65,0.5,Medium
+Research Scientist,30340.0,13,Master's,0.68,0.74,0.26,Low
+Doctor,104965.0,24,Bachelor's,0.79,0.96,0.23,Low
+Truck Driver,74789.0,10,Master's,0.55,0.56,0.87,High
+Security Guard,88954.0,0,High School,0.56,0.94,0.85,High
+Teacher,78456.0,7,PhD,0.85,0.94,0.26,Low
+Financial Analyst,116698.0,2,High School,0.69,0.63,0.42,Medium
+AI Engineer,78511.0,3,High School,0.41,0.57,0.14,Low
+AI Engineer,136127.0,5,Master's,0.05,0.57,0.15,Low
+UX Researcher,62402.0,8,Master's,0.84,0.81,0.62,Medium
+Mechanic,53478.0,9,Bachelor's,0.14,0.75,0.65,Medium
+Chef,84336.0,3,High School,0.09,0.54,0.57,Medium
+Financial Analyst,112594.0,24,High School,0.74,0.83,0.66,Medium
+Security Guard,85243.0,26,Bachelor's,0.58,0.58,0.8,High
+Data Scientist,107240.0,25,Bachelor's,0.85,0.82,0.41,Medium
+Mechanic,96155.0,18,Bachelor's,0.73,0.86,0.58,Medium
+Teacher,57413.0,4,High School,0.25,0.9,0.27,Low
+Software Engineer,138125.0,2,Bachelor's,0.06,0.94,0.41,Medium
+HR Specialist,42602.0,10,PhD,0.75,0.73,0.68,Medium
+Customer Support,118691.0,22,PhD,0.93,0.89,0.84,High
+Lawyer,120453.0,14,Bachelor's,0.19,0.81,0.59,Medium
+Software Engineer,37214.0,21,PhD,0.41,0.72,0.6,Medium
+Construction Worker,119285.0,0,PhD,0.12,0.63,0.91,High
+Research Scientist,122268.0,22,Bachelor's,0.55,0.81,0.17,Low
+Financial Analyst,136464.0,16,PhD,0.02,0.89,0.38,Medium
+Graphic Designer,84845.0,28,PhD,0.98,0.6,0.52,Medium
+Truck Driver,54351.0,5,PhD,0.98,0.6,0.7,Medium
+Teacher,74816.0,10,Master's,0.64,0.74,0.23,Low
+Teacher,40103.0,26,Bachelor's,0.52,0.57,0.14,Low
+Marketing Manager,34458.0,26,High School,0.71,0.93,0.48,Medium
+Construction Worker,59493.0,23,Bachelor's,0.93,0.61,0.89,High
+Data Scientist,93059.0,18,High School,0.11,0.79,0.42,Medium
+Software Engineer,100293.0,21,Bachelor's,0.08,0.52,0.37,Medium
+Construction Worker,73937.0,28,PhD,0.53,0.62,0.85,High
+Lawyer,146464.0,29,High School,0.79,0.57,0.49,Medium
+Truck Driver,142309.0,13,Master's,0.37,0.57,0.79,High
+Marketing Manager,85612.0,23,High School,0.55,0.57,0.61,Medium
+Truck Driver,65710.0,27,Bachelor's,0.39,0.66,0.76,High
+Software Engineer,115679.0,5,PhD,0.43,0.7,0.51,Medium
+Customer Support,53559.0,28,Bachelor's,0.42,0.58,0.85,High
+Data Scientist,117954.0,13,PhD,0.39,0.57,0.38,Medium
+Mechanic,105831.0,22,Master's,0.8,0.83,0.42,Medium
+HR Specialist,48814.0,23,Bachelor's,0.15,0.58,0.49,Medium
+Research Scientist,147904.0,0,High School,0.46,0.81,0.26,Low
+Security Guard,74739.0,26,High School,0.76,0.63,0.75,High
+AI Engineer,110357.0,5,High School,0.85,0.67,0.26,Low
+UX Researcher,103648.0,19,Bachelor's,0.38,0.73,0.41,Medium
+Data Scientist,137524.0,2,PhD,0.76,0.56,0.3,Low
+Retail Worker,148360.0,1,High School,0.18,0.84,0.81,High
+Data Scientist,85798.0,10,High School,0.8,0.6,0.53,Medium
+UX Researcher,38848.0,5,PhD,0.47,0.98,0.64,Medium
+Doctor,39343.0,13,PhD,0.28,0.72,0.12,Low
+Graphic Designer,70317.0,12,High School,0.66,0.51,0.68,Medium
+Data Scientist,64785.0,12,High School,0.57,0.94,0.62,Medium
+Graphic Designer,70149.0,12,Master's,0.3,0.76,0.41,Medium
+HR Specialist,46524.0,29,High School,0.16,0.72,0.43,Medium
+Mechanic,82347.0,28,Master's,0.44,0.83,0.46,Medium
+Research Scientist,71743.0,17,PhD,0.06,0.53,0.15,Low
+Graphic Designer,95780.0,10,Master's,0.28,0.63,0.34,Medium
+Software Engineer,78899.0,11,Master's,0.06,0.79,0.34,Medium
+Security Guard,140168.0,1,PhD,0.41,0.63,0.71,High
+Mechanic,91158.0,13,High School,0.73,0.82,0.57,Medium
+Construction Worker,52394.0,13,PhD,0.12,0.5,0.88,High
+Nurse,50245.0,1,Bachelor's,0.61,0.89,0.11,Low
+Graphic Designer,48624.0,25,High School,0.48,0.82,0.5,Medium
+AI Engineer,46626.0,21,PhD,0.99,0.59,0.25,Low
+Construction Worker,130211.0,5,Bachelor's,0.65,0.65,0.94,High
+Truck Driver,115489.0,27,Master's,0.58,0.85,0.9,High
+Security Guard,41569.0,5,High School,0.87,0.8,0.74,High
+Customer Support,111384.0,3,Master's,0.2,0.82,0.9,High
+Graphic Designer,107463.0,21,PhD,0.47,0.92,0.7,Medium
+Mechanic,74148.0,14,PhD,0.61,0.52,0.35,Medium
+Retail Worker,59793.0,28,PhD,0.07,0.72,0.93,High
+Doctor,112508.0,28,Master's,0.48,0.88,0.26,Low
+Software Engineer,97598.0,6,High School,0.04,0.69,0.52,Medium
+Financial Analyst,108291.0,27,PhD,0.34,0.68,0.34,Medium
+AI Engineer,34758.0,18,PhD,0.67,0.98,0.15,Low
+Research Scientist,53464.0,1,PhD,0.29,0.51,0.17,Low
+Software Engineer,46932.0,9,PhD,0.91,0.54,0.5,Medium
+Research Scientist,55363.0,11,Bachelor's,0.05,0.68,0.29,Low
+Mechanic,94173.0,23,Bachelor's,0.23,0.74,0.42,Medium
+Research Scientist,80492.0,16,High School,0.3,0.64,0.2,Low
+Mechanic,117527.0,28,PhD,0.14,0.51,0.52,Medium
+Teacher,83639.0,26,Bachelor's,0.25,0.57,0.22,Low
+Data Scientist,66993.0,3,High School,0.51,0.82,0.54,Medium
+Security Guard,61551.0,21,Bachelor's,0.74,0.67,0.73,High
+Construction Worker,103531.0,2,Master's,0.36,0.94,0.94,High
+Lawyer,53991.0,21,PhD,0.72,0.78,0.43,Medium
+Lawyer,39269.0,7,High School,0.21,0.62,0.63,Medium
+Financial Analyst,149391.0,18,Bachelor's,0.7,0.69,0.48,Medium
+AI Engineer,124598.0,14,Master's,0.95,0.85,0.06,Low
+Retail Worker,89470.0,2,PhD,0.19,0.65,0.93,High
+Retail Worker,34321.0,29,Bachelor's,0.81,0.88,0.73,High
+Graphic Designer,50977.0,25,PhD,0.18,0.61,0.65,Medium
+Truck Driver,62167.0,13,High School,0.3,0.59,0.93,High
+UX Researcher,93752.0,12,Bachelor's,0.26,0.97,0.39,Medium
+Graphic Designer,118150.0,14,Master's,0.33,0.89,0.36,Medium
+Truck Driver,31996.0,3,Bachelor's,0.12,0.83,0.9,High
+Marketing Manager,39327.0,7,PhD,0.77,0.89,0.5,Medium
+UX Researcher,76097.0,23,High School,0.75,0.96,0.64,Medium
+Graphic Designer,112928.0,26,High School,0.85,0.71,0.68,Medium
+Financial Analyst,123122.0,8,Bachelor's,0.87,0.68,0.68,Medium
+AI Engineer,49177.0,0,Master's,0.17,0.85,0.15,Low
+HR Specialist,73158.0,27,High School,0.31,0.9,0.5,Medium
+Security Guard,109557.0,24,Bachelor's,0.28,0.9,0.95,High
+Teacher,54502.0,15,PhD,0.94,0.83,0.19,Low
+Financial Analyst,104755.0,6,PhD,0.97,0.94,0.43,Medium
+Mechanic,134580.0,11,Master's,0.19,0.81,0.69,Medium
+Software Engineer,142134.0,12,PhD,0.54,0.63,0.42,Medium
+Doctor,119080.0,4,Master's,0.07,0.82,0.12,Low
+Data Scientist,100601.0,0,Bachelor's,0.4,0.93,0.53,Medium
+Customer Support,148764.0,1,High School,0.93,0.62,0.86,High
+Nurse,113795.0,24,PhD,0.44,0.54,0.17,Low
+Chef,45994.0,15,Master's,1.0,0.72,0.34,Medium
+AI Engineer,66701.0,25,High School,0.62,0.72,0.16,Low
+Teacher,63785.0,18,PhD,0.44,0.96,0.25,Low
+HR Specialist,30229.0,28,Master's,0.95,0.78,0.46,Medium
+Nurse,45620.0,29,High School,0.67,0.6,0.05,Low
+Doctor,68104.0,10,High School,0.35,0.95,0.22,Low
+Data Scientist,33320.0,26,PhD,0.27,0.53,0.59,Medium
+Data Scientist,137648.0,22,PhD,0.63,0.68,0.34,Medium
+Retail Worker,69451.0,3,Bachelor's,0.91,0.65,0.86,High
+Marketing Manager,35147.0,12,High School,0.3,0.69,0.42,Medium
+AI Engineer,133496.0,13,High School,0.34,0.68,0.05,Low
+Security Guard,79692.0,6,Bachelor's,0.22,0.58,0.84,High
+Nurse,135585.0,13,High School,0.35,0.82,0.25,Low
+Marketing Manager,59545.0,17,Bachelor's,0.91,0.68,0.3,Low
+Data Scientist,138777.0,0,PhD,0.3,0.6,0.41,Medium
+Chef,88760.0,1,High School,0.07,0.56,0.35,Medium
+Chef,106870.0,5,Bachelor's,0.58,0.8,0.31,Medium
+Truck Driver,148623.0,11,Bachelor's,0.35,0.94,0.72,High
+Research Scientist,49360.0,25,Bachelor's,0.44,0.63,0.12,Low
+UX Researcher,103953.0,18,Master's,0.93,0.63,0.45,Medium
+Marketing Manager,76531.0,4,High School,0.97,0.5,0.47,Medium
+Lawyer,77218.0,27,High School,0.54,1.0,0.4,Medium
+Data Scientist,39752.0,1,High School,0.77,0.71,0.43,Medium
+Security Guard,38804.0,1,High School,0.33,0.61,0.76,High
+Marketing Manager,58400.0,20,PhD,0.97,0.88,0.4,Medium
+Graphic Designer,129525.0,12,PhD,0.74,0.55,0.64,Medium
+Teacher,47806.0,22,Master's,0.51,1.0,0.08,Low
+UX Researcher,104702.0,10,PhD,0.64,0.64,0.67,Medium
+Graphic Designer,98519.0,27,PhD,0.81,0.88,0.32,Medium
+Retail Worker,72578.0,15,PhD,0.35,0.92,0.8,High
+Security Guard,94280.0,18,Bachelor's,0.89,0.79,0.78,High
+Lawyer,43777.0,10,High School,0.9,0.55,0.65,Medium
+Mechanic,59092.0,26,Bachelor's,0.01,0.86,0.54,Medium
+UX Researcher,66613.0,23,Master's,0.71,0.86,0.33,Medium
+Research Scientist,40292.0,25,PhD,0.09,0.63,0.15,Low
+AI Engineer,123286.0,17,High School,0.8,0.77,0.27,Low
+Financial Analyst,63161.0,23,Bachelor's,0.49,0.58,0.55,Medium
+Data Scientist,103889.0,10,Bachelor's,0.62,0.93,0.42,Medium
+Mechanic,137814.0,16,Master's,0.28,0.57,0.58,Medium
+Nurse,115501.0,10,Master's,0.93,0.51,0.07,Low
+Mechanic,141768.0,0,Master's,0.56,1.0,0.36,Medium
+Truck Driver,53524.0,25,PhD,0.24,0.82,0.75,High
+Construction Worker,67909.0,8,High School,0.2,0.87,0.83,High
+AI Engineer,46934.0,6,Bachelor's,0.41,0.64,0.22,Low
+Financial Analyst,41586.0,23,Bachelor's,0.27,0.91,0.66,Medium
+Financial Analyst,77013.0,29,Master's,0.13,0.8,0.53,Medium
+UX Researcher,133693.0,3,High School,0.25,0.56,0.35,Medium
+Research Scientist,78825.0,21,Bachelor's,0.37,0.85,0.19,Low
+Truck Driver,90107.0,9,Bachelor's,0.86,0.92,0.72,High
+Retail Worker,124826.0,16,High School,0.53,0.56,0.73,High
+Teacher,48320.0,10,High School,0.8,0.98,0.08,Low
+Construction Worker,64629.0,28,Master's,0.63,0.78,0.93,High
+Chef,38859.0,12,High School,0.5,0.58,0.55,Medium
+UX Researcher,136153.0,25,Master's,0.32,0.92,0.39,Medium
+Software Engineer,118444.0,8,Master's,0.38,0.78,0.59,Medium
+Nurse,144476.0,29,High School,0.41,0.61,0.07,Low
+Software Engineer,128336.0,7,High School,0.35,0.83,0.49,Medium
+Research Scientist,60628.0,2,High School,0.02,0.67,0.2,Low
+Data Scientist,96188.0,7,High School,0.4,0.58,0.59,Medium
+AI Engineer,54722.0,22,High School,0.27,0.96,0.27,Low
+Doctor,31695.0,19,PhD,0.43,0.98,0.21,Low
+Customer Support,93294.0,4,PhD,0.84,0.54,0.76,High
+Nurse,60615.0,18,Master's,0.41,0.98,0.07,Low
+Research Scientist,34507.0,20,Bachelor's,0.89,0.77,0.26,Low
+Nurse,58343.0,26,PhD,0.46,0.76,0.11,Low
+Nurse,112790.0,2,Master's,0.54,0.63,0.24,Low
+Chef,99918.0,19,Bachelor's,0.79,0.96,0.37,Medium
+UX Researcher,39372.0,24,Bachelor's,0.91,0.77,0.66,Medium
+Doctor,87911.0,21,Bachelor's,0.08,0.55,0.16,Low
+Teacher,87920.0,14,Bachelor's,0.66,0.55,0.08,Low
+Security Guard,43866.0,24,Master's,0.48,0.9,0.74,High
+Security Guard,133627.0,16,Bachelor's,0.61,0.9,0.75,High
+Graphic Designer,138778.0,3,Master's,0.51,1.0,0.43,Medium
+Retail Worker,30671.0,9,High School,0.62,0.94,0.75,High
+Chef,69574.0,3,PhD,0.65,0.62,0.51,Medium
+HR Specialist,144616.0,26,Bachelor's,0.37,0.87,0.45,Medium
+AI Engineer,79047.0,21,PhD,0.69,0.67,0.12,Low
+Retail Worker,116649.0,25,High School,0.68,0.75,0.92,High
+HR Specialist,84165.0,10,PhD,0.46,0.99,0.31,Medium
+Truck Driver,57757.0,2,High School,0.63,0.85,0.77,High
+Data Scientist,47040.0,4,Bachelor's,0.97,0.94,0.64,Medium
+Financial Analyst,141359.0,16,Master's,0.51,0.7,0.43,Medium
+UX Researcher,147220.0,13,PhD,0.64,0.86,0.32,Medium
+Chef,107078.0,26,Bachelor's,0.7,0.64,0.56,Medium
+Construction Worker,120290.0,17,High School,0.6,0.67,0.89,High
+Teacher,79984.0,28,High School,0.32,0.83,0.06,Low
+Graphic Designer,96770.0,13,Bachelor's,0.92,0.52,0.53,Medium
+Data Scientist,105587.0,24,PhD,0.41,0.63,0.63,Medium
+AI Engineer,34023.0,14,High School,0.84,0.73,0.27,Low
+Mechanic,72215.0,8,PhD,0.88,0.91,0.42,Medium
+Research Scientist,47140.0,14,Bachelor's,0.1,0.59,0.23,Low
+Research Scientist,140261.0,8,High School,0.21,0.65,0.28,Low
+AI Engineer,146004.0,26,PhD,0.08,0.76,0.05,Low
+Graphic Designer,57167.0,19,High School,0.48,0.82,0.64,Medium
+Doctor,111214.0,12,Bachelor's,0.77,0.86,0.1,Low
+Construction Worker,139071.0,16,PhD,0.21,0.74,0.73,High
+Construction Worker,149107.0,24,Master's,0.34,0.61,0.77,High
+Doctor,81331.0,7,High School,0.9,0.61,0.23,Low
+Teacher,38245.0,22,Master's,0.81,0.61,0.3,Low
+UX Researcher,76766.0,22,PhD,0.29,0.5,0.39,Medium
+Teacher,133457.0,6,PhD,0.16,0.67,0.24,Low
+Truck Driver,131126.0,12,Bachelor's,0.9,0.85,0.84,High
+Doctor,72875.0,27,Master's,0.98,0.51,0.21,Low
+Software Engineer,98232.0,12,PhD,0.03,0.84,0.69,Medium
+Data Scientist,70741.0,18,High School,0.34,0.92,0.5,Medium
+Truck Driver,76566.0,24,High School,0.7,0.71,0.81,High
+Retail Worker,42938.0,26,Bachelor's,0.5,0.66,0.79,High
+Nurse,71628.0,19,PhD,0.85,0.92,0.07,Low
+Truck Driver,82136.0,2,Master's,0.38,0.97,0.86,High
+Marketing Manager,74440.0,7,PhD,0.5,0.92,0.38,Medium
+Doctor,43453.0,7,PhD,0.31,0.74,0.12,Low
+Graphic Designer,50043.0,3,Master's,0.81,0.64,0.49,Medium
+Customer Support,126805.0,15,Bachelor's,0.8,0.87,0.8,High
+Chef,137009.0,13,Bachelor's,0.86,0.57,0.57,Medium
+Software Engineer,78542.0,25,Master's,0.86,0.65,0.48,Medium
+UX Researcher,35703.0,5,PhD,0.96,0.6,0.31,Medium
+Data Scientist,110146.0,21,PhD,0.67,0.72,0.31,Medium
+Software Engineer,117052.0,8,PhD,0.54,0.95,0.48,Medium
+Mechanic,62009.0,14,PhD,0.5,0.71,0.32,Medium
+HR Specialist,56651.0,18,Bachelor's,0.32,0.59,0.39,Medium
+Retail Worker,128035.0,23,Master's,0.36,0.78,0.74,High
+Truck Driver,147270.0,13,Bachelor's,0.43,0.55,0.83,High
+Nurse,43769.0,2,Bachelor's,0.23,0.83,0.1,Low
+Financial Analyst,103616.0,14,Bachelor's,0.25,0.76,0.52,Medium
+Construction Worker,79004.0,28,Master's,0.57,0.97,0.82,High
+Graphic Designer,140190.0,17,Master's,0.13,0.98,0.61,Medium
+Truck Driver,51071.0,6,PhD,0.85,0.85,0.86,High
+Marketing Manager,97913.0,15,High School,0.65,0.83,0.46,Medium
+Doctor,37432.0,23,High School,0.48,0.62,0.1,Low
+Lawyer,54578.0,27,High School,0.65,0.85,0.67,Medium
+Financial Analyst,83609.0,24,High School,0.03,0.82,0.62,Medium
+UX Researcher,127841.0,1,PhD,0.2,0.53,0.62,Medium
+Research Scientist,101160.0,5,High School,0.72,0.51,0.2,Low
+Research Scientist,97696.0,20,High School,0.53,0.69,0.16,Low
+Security Guard,47883.0,22,High School,0.53,0.6,0.92,High
+Software Engineer,73271.0,9,Bachelor's,0.31,0.61,0.64,Medium
+Security Guard,76798.0,0,Master's,0.2,0.84,0.82,High
+Construction Worker,145088.0,12,Master's,0.81,0.72,0.88,High
+Mechanic,96178.0,16,High School,0.08,1.0,0.57,Medium
+HR Specialist,146903.0,21,PhD,0.13,0.59,0.54,Medium
+Doctor,80908.0,14,High School,0.43,0.83,0.09,Low
+Customer Support,106762.0,7,Bachelor's,0.06,0.68,0.89,High
+Marketing Manager,101486.0,16,PhD,0.95,0.86,0.4,Medium
+HR Specialist,60540.0,11,Master's,0.08,0.75,0.58,Medium
+Data Scientist,148362.0,2,Master's,0.56,0.8,0.37,Medium
+Software Engineer,72460.0,12,Master's,0.6,0.76,0.51,Medium
+Chef,130257.0,4,Master's,0.82,0.69,0.58,Medium
+Truck Driver,106054.0,29,High School,0.48,0.54,0.94,High
+Teacher,139588.0,26,PhD,0.66,0.84,0.22,Low
+HR Specialist,97143.0,15,Bachelor's,0.88,0.71,0.67,Medium
+Mechanic,49798.0,14,PhD,0.01,0.69,0.34,Medium
+Retail Worker,46254.0,16,High School,0.62,0.69,0.82,High
+HR Specialist,39695.0,6,PhD,0.35,0.97,0.43,Medium
+Mechanic,57740.0,0,Bachelor's,0.11,1.0,0.58,Medium
+Security Guard,99306.0,14,Bachelor's,0.4,0.6,0.72,High
+UX Researcher,54524.0,17,High School,0.42,0.57,0.5,Medium
+Lawyer,108610.0,13,Master's,0.43,0.73,0.7,Medium
+Security Guard,70910.0,20,PhD,0.92,0.87,0.93,High
+AI Engineer,138347.0,21,Bachelor's,0.78,0.96,0.22,Low
+Retail Worker,125761.0,21,PhD,0.86,0.76,0.76,High
+Customer Support,73262.0,2,PhD,0.64,0.51,0.71,High
+Retail Worker,51730.0,25,High School,0.77,0.72,0.77,High
+Security Guard,123878.0,5,Bachelor's,0.76,0.77,0.82,High
+Software Engineer,89300.0,11,High School,0.04,0.93,0.32,Medium
+Lawyer,118552.0,4,Master's,0.43,0.7,0.66,Medium
+UX Researcher,48715.0,17,Master's,0.73,0.6,0.59,Medium
+HR Specialist,147045.0,19,PhD,0.17,0.53,0.43,Medium
+AI Engineer,142109.0,8,Bachelor's,0.94,0.87,0.06,Low
+Teacher,121903.0,0,Master's,0.96,0.71,0.13,Low
+Software Engineer,116755.0,1,Bachelor's,0.44,0.56,0.69,Medium
+Data Scientist,133719.0,6,High School,0.16,0.87,0.64,Medium
+Teacher,43686.0,3,High School,0.12,0.99,0.21,Low
+UX Researcher,91404.0,6,Master's,0.83,0.91,0.51,Medium
+HR Specialist,49416.0,8,PhD,0.19,0.52,0.51,Medium
+Customer Support,72628.0,8,Master's,0.92,0.98,0.86,High
+Research Scientist,135494.0,19,High School,0.62,0.64,0.18,Low
+Mechanic,71751.0,2,High School,0.37,0.58,0.59,Medium
+Truck Driver,86087.0,1,High School,0.55,0.58,0.9,High
+Nurse,127425.0,29,High School,0.61,0.85,0.13,Low
+Data Scientist,133587.0,16,Bachelor's,0.43,0.99,0.67,Medium
+Financial Analyst,76629.0,11,Master's,0.61,0.9,0.56,Medium
+Financial Analyst,33811.0,3,PhD,0.55,0.88,0.36,Medium
+Nurse,113205.0,1,High School,0.15,0.77,0.11,Low
+HR Specialist,100453.0,28,Bachelor's,0.58,0.67,0.47,Medium
+Data Scientist,50758.0,26,Bachelor's,0.79,0.72,0.33,Medium
+Mechanic,135900.0,8,Master's,0.78,0.83,0.43,Medium
+HR Specialist,93115.0,10,High School,0.07,0.67,0.42,Medium
+Marketing Manager,83013.0,15,Bachelor's,0.25,0.84,0.48,Medium
+Teacher,45233.0,16,High School,0.68,0.98,0.09,Low
+Nurse,50765.0,19,PhD,0.68,0.56,0.19,Low
+Retail Worker,108766.0,18,Bachelor's,0.14,0.85,0.8,High
+Doctor,117287.0,21,High School,0.7,0.6,0.28,Low
+Security Guard,137252.0,23,Bachelor's,0.97,0.98,0.88,High
+Financial Analyst,31511.0,17,Bachelor's,0.56,0.79,0.68,Medium
+Truck Driver,33145.0,9,Master's,0.69,0.89,0.79,High
+Software Engineer,115642.0,19,PhD,0.22,0.7,0.37,Medium
+Construction Worker,81142.0,16,Bachelor's,0.59,0.85,0.82,High
+Research Scientist,89817.0,13,PhD,0.96,1.0,0.28,Low
+Lawyer,124410.0,0,Master's,0.17,0.84,0.46,Medium
+Research Scientist,78657.0,18,PhD,0.95,0.63,0.22,Low
+Truck Driver,87033.0,27,PhD,0.82,0.7,0.75,High
+Teacher,80658.0,5,PhD,0.96,0.58,0.16,Low
+Software Engineer,136081.0,29,High School,0.84,0.98,0.51,Medium
+Marketing Manager,104638.0,10,Master's,1.0,0.67,0.61,Medium
+Construction Worker,141597.0,26,Bachelor's,0.74,0.96,0.84,High
+Research Scientist,139419.0,4,PhD,0.39,0.91,0.09,Low
+Retail Worker,140349.0,14,Master's,0.53,0.91,0.77,High
+Marketing Manager,115333.0,1,Master's,0.29,0.82,0.57,Medium
+Mechanic,93908.0,22,Master's,0.67,0.97,0.44,Medium
+Retail Worker,41564.0,3,Master's,0.67,0.75,0.78,High
+UX Researcher,54940.0,26,Master's,0.06,0.55,0.47,Medium
+Software Engineer,144326.0,14,PhD,0.39,0.8,0.56,Medium
+Nurse,30511.0,18,Master's,0.67,0.73,0.13,Low
+Software Engineer,49359.0,26,Bachelor's,0.9,0.77,0.41,Medium
+Mechanic,36265.0,15,High School,0.56,0.61,0.36,Medium
+Lawyer,122313.0,25,Master's,0.95,0.84,0.48,Medium
+Chef,39280.0,1,PhD,0.43,0.7,0.52,Medium
+UX Researcher,98354.0,16,High School,0.84,0.53,0.63,Medium
+Nurse,51529.0,7,Bachelor's,0.93,0.74,0.25,Low
+Retail Worker,30594.0,25,Master's,0.28,0.98,0.71,High
+Marketing Manager,122995.0,5,High School,0.07,0.6,0.47,Medium
+Customer Support,44372.0,26,Bachelor's,0.12,0.8,0.94,High
+Nurse,53795.0,7,Master's,0.65,0.86,0.11,Low
+Security Guard,80697.0,15,Bachelor's,0.85,0.9,0.91,High
+Nurse,125773.0,28,Master's,0.49,0.61,0.16,Low
+Truck Driver,105569.0,0,Bachelor's,0.37,0.84,0.76,High
+Teacher,45782.0,19,Bachelor's,0.74,0.84,0.16,Low
+Security Guard,107865.0,2,Master's,0.59,0.69,0.92,High
+AI Engineer,75986.0,27,PhD,0.5,0.52,0.14,Low
+HR Specialist,60276.0,19,Master's,0.76,0.77,0.36,Medium
+Mechanic,45819.0,24,PhD,0.62,0.98,0.46,Medium
+AI Engineer,36473.0,18,Bachelor's,0.58,0.57,0.09,Low
+Research Scientist,88209.0,7,Bachelor's,0.22,0.66,0.11,Low
+Lawyer,147067.0,23,PhD,0.93,0.76,0.43,Medium
+Lawyer,38699.0,3,High School,1.0,0.88,0.54,Medium
+Data Scientist,107593.0,25,Master's,0.86,0.99,0.53,Medium
+Graphic Designer,80924.0,10,PhD,0.25,0.93,0.55,Medium
+Financial Analyst,100739.0,14,Bachelor's,0.81,0.81,0.69,Medium
+Doctor,128560.0,24,Master's,0.71,0.98,0.2,Low
+Teacher,90521.0,1,High School,0.6,0.85,0.16,Low
+Chef,33743.0,23,Master's,0.69,0.94,0.45,Medium
+Marketing Manager,111256.0,7,PhD,0.1,0.83,0.35,Medium
+Software Engineer,132859.0,26,Master's,0.16,0.64,0.54,Medium
+AI Engineer,99810.0,10,High School,0.43,0.9,0.06,Low
+UX Researcher,90360.0,6,Master's,0.02,0.53,0.57,Medium
+AI Engineer,130290.0,4,High School,0.72,0.58,0.08,Low
+Customer Support,105656.0,22,Bachelor's,0.84,0.67,0.72,High
+Marketing Manager,33970.0,13,PhD,0.1,0.9,0.69,Medium
+Graphic Designer,104354.0,6,Master's,0.96,0.9,0.65,Medium
+Construction Worker,35280.0,20,Bachelor's,0.44,0.75,0.89,High
+Research Scientist,116545.0,27,Bachelor's,0.03,0.61,0.16,Low
+AI Engineer,90985.0,20,PhD,0.21,0.95,0.09,Low
+Security Guard,71516.0,25,High School,0.97,1.0,0.74,High
+Nurse,48226.0,18,Bachelor's,0.86,0.99,0.08,Low
+Software Engineer,107255.0,21,Bachelor's,0.92,0.58,0.67,Medium
+Customer Support,133185.0,18,Master's,0.1,0.88,0.94,High
+Construction Worker,107929.0,6,Master's,0.35,0.81,0.87,High
+Doctor,77969.0,6,Bachelor's,0.5,0.89,0.17,Low
+AI Engineer,50491.0,14,High School,0.74,0.5,0.12,Low
+HR Specialist,105955.0,11,Bachelor's,0.57,0.77,0.46,Medium
+HR Specialist,97519.0,26,High School,0.57,0.94,0.52,Medium
+Data Scientist,74775.0,17,PhD,0.3,0.77,0.35,Medium
+AI Engineer,112201.0,21,Bachelor's,0.35,0.83,0.24,Low
+Nurse,91134.0,17,Bachelor's,0.39,0.88,0.05,Low
+Data Scientist,76647.0,22,PhD,0.92,0.8,0.55,Medium
+AI Engineer,138197.0,12,Bachelor's,0.08,0.9,0.14,Low
+Lawyer,76413.0,18,Bachelor's,0.9,0.77,0.67,Medium
+HR Specialist,65319.0,18,High School,0.1,0.66,0.33,Medium
+Data Scientist,51951.0,7,Bachelor's,0.58,0.57,0.32,Medium
+Retail Worker,37804.0,10,Bachelor's,0.45,0.85,0.91,High
+Security Guard,40349.0,7,High School,0.75,0.75,0.88,High
+Nurse,117385.0,11,High School,0.56,0.58,0.28,Low
+Lawyer,109841.0,8,PhD,0.26,0.97,0.39,Medium
+Nurse,95197.0,6,High School,0.18,0.87,0.06,Low
+AI Engineer,67499.0,1,Master's,0.29,0.67,0.25,Low
+Retail Worker,118627.0,16,High School,0.2,0.91,0.85,High
+Software Engineer,99074.0,21,Master's,0.63,0.92,0.52,Medium
+HR Specialist,71716.0,0,Bachelor's,0.15,0.98,0.52,Medium
+Research Scientist,77553.0,23,PhD,0.14,0.6,0.19,Low
+Lawyer,139875.0,5,Bachelor's,1.0,0.5,0.31,Medium
+Teacher,119779.0,1,Bachelor's,0.01,0.96,0.06,Low
+Research Scientist,46289.0,22,Master's,0.25,0.8,0.14,Low
+Retail Worker,115823.0,29,Master's,0.84,0.93,0.86,High
+HR Specialist,98560.0,23,Bachelor's,0.86,0.68,0.52,Medium
+Construction Worker,109023.0,28,Bachelor's,0.0,0.84,0.94,High
+Mechanic,112455.0,28,PhD,0.46,0.7,0.42,Medium
+Mechanic,86422.0,12,Bachelor's,0.28,0.88,0.34,Medium
+Teacher,69305.0,21,PhD,0.06,0.68,0.08,Low
+Security Guard,31776.0,7,Bachelor's,0.19,1.0,0.91,High
+Chef,113187.0,14,Bachelor's,0.51,0.85,0.37,Medium
+Security Guard,44937.0,26,Bachelor's,0.17,0.69,0.93,High
+Retail Worker,77259.0,23,Master's,0.23,0.91,0.88,High
+Software Engineer,48225.0,11,High School,0.96,0.73,0.34,Medium
+Nurse,101519.0,10,High School,0.29,0.71,0.12,Low
+Customer Support,106970.0,29,PhD,0.51,0.81,0.81,High
+Research Scientist,117351.0,15,Master's,0.31,0.89,0.14,Low
+Security Guard,72320.0,6,High School,0.9,0.85,0.94,High
+Customer Support,91196.0,11,Bachelor's,0.73,0.78,0.88,High
+Security Guard,104861.0,0,Bachelor's,0.39,0.99,0.77,High
+HR Specialist,148169.0,20,PhD,0.65,0.5,0.4,Medium
+Chef,89630.0,13,High School,0.32,0.85,0.38,Medium
+Mechanic,127435.0,3,PhD,0.57,0.69,0.62,Medium
+Nurse,100683.0,3,Master's,0.41,0.74,0.08,Low
+Construction Worker,120153.0,20,Bachelor's,0.46,0.75,0.79,High
+Marketing Manager,129926.0,0,High School,0.86,0.6,0.44,Medium
+Data Scientist,104362.0,11,PhD,0.31,0.98,0.69,Medium
+Financial Analyst,73030.0,5,PhD,0.24,0.92,0.67,Medium
+Nurse,54400.0,18,PhD,0.02,0.65,0.14,Low
+Nurse,33760.0,20,PhD,0.02,0.53,0.17,Low
+Lawyer,65098.0,10,PhD,0.22,0.68,0.31,Medium
+Chef,101153.0,11,PhD,0.62,0.63,0.55,Medium
+Graphic Designer,107199.0,25,Bachelor's,0.46,0.51,0.49,Medium
+Teacher,132658.0,11,High School,0.24,0.76,0.13,Low
+Doctor,122345.0,27,PhD,0.12,0.68,0.29,Low
+Mechanic,126367.0,11,PhD,0.46,0.54,0.31,Medium
+Marketing Manager,39835.0,27,Master's,0.74,0.52,0.56,Medium
+HR Specialist,30637.0,8,High School,0.74,0.84,0.45,Medium
+Security Guard,62209.0,27,Master's,0.9,0.84,0.89,High
+Truck Driver,52505.0,0,Master's,0.69,0.84,0.73,High
+Financial Analyst,140441.0,22,High School,0.16,0.96,0.54,Medium
+Security Guard,40886.0,21,Master's,0.85,0.99,0.91,High
+Customer Support,85744.0,21,High School,0.53,0.78,0.92,High
+Retail Worker,75778.0,29,Master's,0.73,0.75,0.88,High
+Marketing Manager,107223.0,6,Bachelor's,0.69,0.61,0.56,Medium
+Construction Worker,87225.0,4,PhD,0.17,0.85,0.89,High
+Retail Worker,37466.0,7,PhD,0.88,0.85,0.84,High
+Graphic Designer,60985.0,26,High School,0.51,0.68,0.62,Medium
+AI Engineer,102022.0,26,High School,0.95,0.56,0.27,Low
+Research Scientist,82167.0,21,PhD,0.2,0.74,0.11,Low
+Security Guard,112915.0,15,High School,0.13,0.96,0.77,High
+Security Guard,103251.0,9,PhD,0.08,0.96,0.95,High
+Graphic Designer,51258.0,26,PhD,0.3,0.54,0.67,Medium
+Graphic Designer,60066.0,13,PhD,0.92,0.85,0.59,Medium
+Graphic Designer,78225.0,8,Bachelor's,0.24,0.54,0.69,Medium
+Customer Support,91351.0,4,Bachelor's,0.94,0.51,0.88,High
+Doctor,111646.0,27,High School,0.43,0.64,0.09,Low
+Retail Worker,100072.0,15,Master's,0.02,0.79,0.81,High
+UX Researcher,41246.0,26,High School,0.98,0.57,0.66,Medium
+Security Guard,120088.0,5,PhD,0.78,0.69,0.87,High
+Teacher,82035.0,28,PhD,0.79,0.67,0.06,Low
+Financial Analyst,75643.0,9,PhD,0.58,0.87,0.44,Medium
+Doctor,111751.0,13,PhD,0.44,0.57,0.29,Low
+Software Engineer,145650.0,29,Bachelor's,0.56,0.61,0.69,Medium
+Research Scientist,95615.0,25,Bachelor's,0.72,0.53,0.19,Low
+Doctor,53655.0,12,PhD,0.44,0.95,0.14,Low
+Data Scientist,102264.0,4,PhD,0.93,0.95,0.57,Medium
+Data Scientist,51200.0,20,High School,0.25,0.61,0.65,Medium
+Doctor,46151.0,5,Bachelor's,0.39,0.57,0.14,Low
+HR Specialist,44537.0,21,Master's,0.23,0.75,0.51,Medium
+Retail Worker,45749.0,23,High School,0.33,0.63,0.9,High
+Financial Analyst,32251.0,9,Bachelor's,0.68,0.75,0.5,Medium
+Teacher,94274.0,3,High School,0.98,0.97,0.27,Low
+Graphic Designer,126746.0,18,High School,0.53,0.52,0.36,Medium
+Doctor,76205.0,7,High School,0.38,0.62,0.11,Low
+UX Researcher,129821.0,29,Master's,0.19,0.77,0.56,Medium
+Construction Worker,57470.0,9,PhD,0.95,0.71,0.83,High
+Financial Analyst,90639.0,23,Bachelor's,0.17,0.78,0.51,Medium
+Marketing Manager,110882.0,2,Master's,0.55,0.62,0.67,Medium
+AI Engineer,143352.0,14,Bachelor's,0.97,0.96,0.29,Low
+Chef,91775.0,24,High School,0.3,0.68,0.55,Medium
+Mechanic,142192.0,18,High School,0.85,0.74,0.58,Medium
+Teacher,120351.0,1,Bachelor's,0.43,0.84,0.13,Low
+Customer Support,50080.0,3,Master's,0.37,0.71,0.92,High
+Truck Driver,95729.0,5,PhD,0.77,0.52,0.81,High
+Customer Support,123330.0,1,Bachelor's,0.45,0.58,0.87,High
+HR Specialist,97986.0,4,High School,0.93,0.72,0.58,Medium
+Mechanic,43776.0,23,Bachelor's,0.32,0.64,0.52,Medium
+Security Guard,108156.0,8,High School,0.87,0.89,0.79,High
+Research Scientist,68842.0,28,Master's,0.95,0.51,0.1,Low
+Marketing Manager,59552.0,1,PhD,0.88,0.84,0.45,Medium
+Construction Worker,131442.0,13,Bachelor's,0.89,0.86,0.86,High
+Graphic Designer,126969.0,24,Bachelor's,0.81,0.79,0.7,Medium
+Teacher,111606.0,11,Bachelor's,0.79,0.96,0.1,Low
+Research Scientist,93878.0,11,Master's,0.2,0.81,0.17,Low
+Retail Worker,65169.0,23,Bachelor's,0.08,0.51,0.85,High
+AI Engineer,47330.0,9,PhD,0.11,0.58,0.06,Low
+Marketing Manager,119937.0,16,PhD,0.54,0.96,0.48,Medium
+Construction Worker,100390.0,3,Master's,0.81,0.86,0.82,High
+Mechanic,129878.0,15,Bachelor's,0.6,0.66,0.42,Medium
+Retail Worker,81408.0,2,High School,0.39,0.72,0.89,High
+Financial Analyst,115442.0,3,Bachelor's,0.67,0.77,0.35,Medium
+Customer Support,86467.0,21,Master's,0.37,0.6,0.76,High
+Construction Worker,87304.0,26,Master's,0.65,0.94,0.76,High
+Teacher,62734.0,29,PhD,0.13,0.62,0.17,Low
+Doctor,113319.0,3,Bachelor's,0.14,0.62,0.12,Low
+Teacher,43760.0,26,Master's,0.29,0.85,0.17,Low
+Financial Analyst,118670.0,29,Master's,0.53,0.88,0.36,Medium
+Security Guard,80806.0,19,Master's,0.03,0.84,0.85,High
+Doctor,82723.0,29,PhD,0.04,0.84,0.15,Low
+Mechanic,33974.0,17,Master's,0.58,0.89,0.34,Medium
+Construction Worker,51944.0,1,High School,0.07,0.7,0.72,High
+Construction Worker,127065.0,3,Master's,0.56,0.75,0.76,High
+Financial Analyst,41039.0,9,PhD,0.05,0.66,0.46,Medium
+Mechanic,102816.0,5,Bachelor's,0.91,0.73,0.58,Medium
+Data Scientist,133722.0,9,Bachelor's,0.31,0.65,0.47,Medium
+Customer Support,136657.0,8,PhD,0.16,0.69,0.93,High
+Software Engineer,93483.0,25,PhD,0.25,0.68,0.48,Medium
+Data Scientist,73815.0,28,PhD,0.26,0.73,0.46,Medium
+Data Scientist,116483.0,5,High School,0.29,0.66,0.58,Medium
+Mechanic,92327.0,4,High School,0.53,0.68,0.55,Medium
+Teacher,114267.0,28,PhD,0.59,0.79,0.09,Low
+Construction Worker,126172.0,19,Master's,0.18,0.51,0.8,High
+Software Engineer,108267.0,16,Bachelor's,0.03,0.86,0.6,Medium
+Data Scientist,120299.0,5,High School,0.16,0.85,0.63,Medium
+HR Specialist,69140.0,2,PhD,0.59,0.88,0.43,Medium
+Nurse,125941.0,7,Master's,0.24,0.95,0.08,Low
+Financial Analyst,119257.0,5,Bachelor's,0.22,0.65,0.42,Medium
+Financial Analyst,65963.0,15,Master's,0.18,0.82,0.32,Medium
+UX Researcher,86195.0,10,Bachelor's,0.22,0.52,0.6,Medium
+UX Researcher,133488.0,28,PhD,0.85,0.56,0.36,Medium
+Lawyer,113081.0,17,PhD,0.92,0.67,0.41,Medium
+Financial Analyst,138809.0,19,Bachelor's,0.82,0.93,0.34,Medium
+Mechanic,35983.0,19,Bachelor's,0.33,0.61,0.54,Medium
+Truck Driver,138295.0,29,Master's,0.2,0.53,0.83,High
+Graphic Designer,130965.0,29,High School,0.51,0.96,0.7,Medium
+Financial Analyst,104900.0,16,PhD,0.35,0.96,0.36,Medium
+AI Engineer,121814.0,0,High School,0.51,0.97,0.24,Low
+Software Engineer,127155.0,3,PhD,0.75,0.89,0.66,Medium
+Construction Worker,90843.0,27,Master's,0.83,0.56,0.74,High
+Financial Analyst,34715.0,6,PhD,0.9,0.9,0.45,Medium
+Data Scientist,44870.0,15,PhD,0.72,0.72,0.41,Medium
+Mechanic,102964.0,5,High School,0.74,0.99,0.43,Medium
+Data Scientist,127677.0,13,Bachelor's,0.64,0.84,0.35,Medium
+Nurse,58333.0,13,PhD,0.64,1.0,0.14,Low
+Data Scientist,140415.0,12,PhD,0.52,0.64,0.38,Medium
+Lawyer,89151.0,21,PhD,0.81,0.59,0.45,Medium
+Lawyer,143268.0,17,Master's,0.41,0.94,0.32,Medium
+Chef,87109.0,10,Master's,0.09,0.99,0.55,Medium
+Data Scientist,115380.0,12,PhD,0.87,0.66,0.67,Medium
+Chef,117843.0,5,Master's,0.85,0.67,0.58,Medium
+Software Engineer,81179.0,29,Master's,0.71,0.94,0.37,Medium
+Nurse,120404.0,26,Bachelor's,0.15,0.76,0.14,Low
+Research Scientist,127119.0,25,High School,0.99,0.57,0.15,Low
+Customer Support,117526.0,20,Master's,0.17,0.64,0.84,High
+Lawyer,99503.0,19,Bachelor's,0.41,0.52,0.57,Medium
+Teacher,39157.0,6,Master's,0.12,0.83,0.23,Low
+Research Scientist,107952.0,16,Master's,0.43,0.52,0.11,Low
+Data Scientist,49517.0,21,Bachelor's,0.88,0.66,0.33,Medium
+Security Guard,137251.0,25,High School,0.61,0.96,0.72,High
+Mechanic,42979.0,1,Bachelor's,0.08,0.8,0.51,Medium
+Graphic Designer,91305.0,20,High School,0.12,0.62,0.67,Medium
+UX Researcher,38738.0,16,High School,0.77,0.76,0.43,Medium
+Doctor,89327.0,3,Bachelor's,0.47,0.58,0.12,Low
+UX Researcher,142674.0,24,Bachelor's,0.18,0.54,0.33,Medium
+Mechanic,68057.0,12,Bachelor's,0.36,0.64,0.46,Medium
+Financial Analyst,108104.0,26,Master's,0.1,0.75,0.41,Medium
+Doctor,139418.0,27,Bachelor's,0.04,0.98,0.26,Low
+Financial Analyst,139732.0,15,PhD,0.98,0.89,0.64,Medium
+Lawyer,146332.0,27,Master's,0.81,0.82,0.5,Medium
+Retail Worker,110314.0,5,Bachelor's,0.82,0.58,0.85,High
+HR Specialist,147230.0,13,PhD,0.5,0.87,0.6,Medium
+Research Scientist,107271.0,15,Master's,0.32,0.64,0.05,Low
+Retail Worker,135812.0,28,PhD,0.74,0.54,0.87,High
+Graphic Designer,138613.0,9,PhD,0.28,0.88,0.56,Medium
+Truck Driver,44436.0,10,Bachelor's,0.04,0.82,0.84,High
+Research Scientist,99269.0,3,Bachelor's,0.74,0.82,0.08,Low
+Chef,43764.0,25,Bachelor's,0.41,0.8,0.33,Medium
+Security Guard,83804.0,21,Bachelor's,0.22,0.54,0.84,High
+Financial Analyst,97635.0,18,High School,0.35,0.74,0.33,Medium
+Lawyer,122424.0,26,Master's,0.12,0.53,0.42,Medium
+HR Specialist,131388.0,29,Bachelor's,0.34,0.98,0.57,Medium
+Doctor,146649.0,9,High School,0.14,0.97,0.13,Low
+Retail Worker,134031.0,16,Master's,0.91,0.72,0.91,High
+Construction Worker,118598.0,7,Bachelor's,0.66,0.97,0.82,High
+Marketing Manager,131633.0,28,High School,0.18,0.81,0.61,Medium
+UX Researcher,90359.0,15,Master's,0.68,0.87,0.59,Medium
+Nurse,55642.0,3,Bachelor's,0.82,0.88,0.23,Low
+Construction Worker,135190.0,10,Master's,0.15,0.83,0.73,High
+Lawyer,81747.0,21,High School,0.48,0.77,0.45,Medium
+Customer Support,131809.0,2,High School,0.28,0.64,0.78,High
+Retail Worker,145070.0,14,Master's,0.28,0.76,0.82,High
+Security Guard,98688.0,8,Master's,0.8,0.65,0.79,High
+Security Guard,53545.0,7,Bachelor's,0.03,0.57,0.8,High
+Nurse,113394.0,0,Bachelor's,0.09,0.56,0.14,Low
+Nurse,40002.0,10,PhD,0.83,0.7,0.09,Low
+Research Scientist,107365.0,22,PhD,0.78,0.97,0.24,Low
+Retail Worker,44833.0,18,Bachelor's,0.61,0.6,0.91,High
+UX Researcher,52844.0,24,Master's,0.71,0.54,0.38,Medium
+HR Specialist,95265.0,6,High School,0.16,0.83,0.31,Medium
+Data Scientist,35725.0,9,Master's,0.47,0.63,0.33,Medium
+Security Guard,33573.0,21,Bachelor's,0.21,0.54,0.82,High
+Software Engineer,107831.0,23,Master's,0.06,0.64,0.48,Medium
+Teacher,69215.0,7,Master's,0.19,0.74,0.25,Low
+Research Scientist,88769.0,5,Master's,0.08,0.51,0.15,Low
+Nurse,48408.0,9,High School,0.54,0.8,0.22,Low
+HR Specialist,34286.0,3,PhD,0.82,0.75,0.47,Medium
+Doctor,92845.0,22,High School,0.24,0.96,0.1,Low
+Doctor,145429.0,14,Bachelor's,0.17,0.52,0.1,Low
+HR Specialist,95951.0,3,High School,0.68,0.64,0.36,Medium
+Financial Analyst,132255.0,20,Bachelor's,0.92,0.61,0.38,Medium
+Chef,138906.0,2,PhD,0.9,0.7,0.42,Medium
+Customer Support,105477.0,19,Bachelor's,0.97,0.93,0.76,High
+AI Engineer,93560.0,21,PhD,0.6,0.72,0.13,Low
+Software Engineer,121703.0,15,Master's,0.9,0.95,0.46,Medium
+Doctor,38338.0,20,PhD,0.83,0.92,0.16,Low
+Data Scientist,147511.0,0,High School,1.0,0.76,0.59,Medium
+Security Guard,105165.0,6,Bachelor's,0.41,0.66,0.83,High
+Customer Support,68180.0,29,High School,0.17,0.56,0.77,High
+Lawyer,117464.0,9,High School,0.51,0.92,0.48,Medium
+Financial Analyst,99915.0,13,High School,0.19,0.72,0.62,Medium
+Mechanic,30318.0,10,Bachelor's,0.03,0.95,0.52,Medium
+Lawyer,144148.0,19,PhD,0.59,0.64,0.56,Medium
+Financial Analyst,68790.0,3,PhD,0.65,0.87,0.43,Medium
+Research Scientist,83565.0,2,High School,0.0,0.61,0.14,Low
+HR Specialist,60639.0,10,Bachelor's,0.2,0.56,0.52,Medium
+Retail Worker,94414.0,21,PhD,0.75,0.67,0.85,High
+Research Scientist,137020.0,23,PhD,0.53,0.98,0.22,Low
+Security Guard,122816.0,15,Master's,0.1,1.0,0.81,High
+Lawyer,129626.0,11,Bachelor's,0.47,0.5,0.46,Medium
+Financial Analyst,95107.0,9,Bachelor's,0.13,0.55,0.61,Medium
+Security Guard,49638.0,16,High School,0.41,0.87,0.83,High
+Data Scientist,131471.0,4,Master's,0.98,0.92,0.38,Medium
+Data Scientist,65319.0,25,High School,0.76,0.87,0.65,Medium
+Software Engineer,49098.0,6,Master's,0.2,0.64,0.43,Medium
+Software Engineer,43950.0,2,PhD,0.16,1.0,0.67,Medium
+Financial Analyst,96603.0,24,High School,0.19,0.62,0.5,Medium
+Retail Worker,81850.0,22,High School,0.92,0.9,0.85,High
+Marketing Manager,63158.0,18,High School,0.7,0.64,0.54,Medium
+Truck Driver,43065.0,18,PhD,0.55,0.77,0.73,High
+Construction Worker,53115.0,16,Master's,0.89,0.97,0.91,High
+Retail Worker,30234.0,18,PhD,0.71,0.73,0.8,High
+AI Engineer,100529.0,27,Bachelor's,0.58,0.74,0.27,Low
+Lawyer,122983.0,27,Master's,0.92,0.93,0.42,Medium
+AI Engineer,93815.0,3,High School,0.79,0.91,0.22,Low
+Retail Worker,123758.0,18,Master's,0.64,0.89,0.83,High
+Graphic Designer,86366.0,2,High School,0.04,0.72,0.66,Medium
+UX Researcher,85652.0,22,Master's,0.53,0.53,0.49,Medium
+Graphic Designer,104041.0,19,High School,0.98,0.74,0.64,Medium
+Doctor,140998.0,9,High School,0.77,0.78,0.05,Low
+AI Engineer,89977.0,3,Master's,0.27,0.76,0.13,Low
+Construction Worker,47013.0,16,High School,0.7,0.63,0.95,High
+Lawyer,114935.0,22,PhD,0.6,0.68,0.36,Medium
+Customer Support,74741.0,12,PhD,0.19,0.95,0.94,High
+Doctor,114153.0,20,High School,0.34,0.95,0.19,Low
+Construction Worker,113110.0,11,High School,0.85,0.81,0.84,High
+Marketing Manager,94274.0,10,PhD,0.14,0.86,0.49,Medium
+Marketing Manager,135649.0,11,PhD,0.86,0.59,0.56,Medium
+Doctor,131433.0,10,High School,0.8,0.71,0.12,Low
+Construction Worker,104901.0,5,Master's,0.93,0.74,0.91,High
+Teacher,44133.0,27,Bachelor's,0.1,0.61,0.25,Low
+UX Researcher,116070.0,24,PhD,0.53,0.79,0.35,Medium
+Nurse,86439.0,20,Bachelor's,0.53,0.87,0.05,Low
+Research Scientist,79887.0,19,PhD,0.56,0.56,0.2,Low
+Graphic Designer,105352.0,4,Master's,0.41,0.73,0.65,Medium
+Teacher,126492.0,12,High School,0.08,0.88,0.28,Low
+Marketing Manager,149635.0,19,PhD,0.83,0.56,0.65,Medium
+Doctor,99368.0,19,Master's,0.79,0.96,0.05,Low
+Retail Worker,128203.0,12,Master's,0.29,0.82,0.7,Medium
+Graphic Designer,111115.0,14,Bachelor's,0.12,0.75,0.63,Medium
+AI Engineer,87392.0,26,Master's,0.85,0.82,0.13,Low
+Customer Support,94863.0,8,High School,0.68,0.6,0.82,High
+Software Engineer,142255.0,29,Master's,0.07,0.67,0.31,Medium
+AI Engineer,33347.0,17,Bachelor's,0.38,0.6,0.17,Low
+Software Engineer,135309.0,5,PhD,0.99,0.99,0.63,Medium
+Nurse,78276.0,19,Bachelor's,0.97,0.9,0.28,Low
+Customer Support,118307.0,25,Bachelor's,0.9,0.57,0.93,High
+Retail Worker,138204.0,22,Bachelor's,0.26,0.58,0.94,High
+Marketing Manager,123566.0,10,High School,0.95,0.51,0.48,Medium
+Chef,140839.0,16,High School,1.0,0.53,0.33,Medium
+Marketing Manager,78481.0,1,High School,0.12,0.67,0.7,Medium
+Financial Analyst,101343.0,10,Bachelor's,0.51,0.51,0.42,Medium
+Mechanic,66419.0,17,Master's,0.35,0.87,0.38,Medium
+Graphic Designer,79357.0,4,High School,0.66,0.81,0.41,Medium
+Graphic Designer,63783.0,2,High School,0.41,1.0,0.63,Medium
+Truck Driver,107273.0,28,PhD,0.78,0.8,0.75,High
+Nurse,144365.0,15,PhD,0.19,0.98,0.07,Low
+Construction Worker,89087.0,16,Master's,0.2,0.59,0.88,High
+Chef,105692.0,0,PhD,0.69,0.76,0.67,Medium
+HR Specialist,94930.0,26,High School,0.37,0.56,0.63,Medium
+Financial Analyst,135857.0,4,High School,0.04,0.96,0.63,Medium
+HR Specialist,35659.0,1,High School,0.81,0.81,0.46,Medium
+Doctor,128989.0,16,High School,0.07,0.51,0.09,Low
+HR Specialist,125011.0,4,High School,0.72,0.58,0.57,Medium
+Research Scientist,70372.0,24,Bachelor's,0.77,0.56,0.26,Low
+Marketing Manager,72928.0,8,High School,0.74,0.78,0.45,Medium
+Data Scientist,148691.0,1,PhD,0.44,0.6,0.4,Medium
+Data Scientist,37529.0,21,Bachelor's,0.81,0.61,0.61,Medium
+Chef,139633.0,23,PhD,0.48,0.51,0.31,Medium
+AI Engineer,75477.0,2,PhD,0.05,0.8,0.19,Low
+Teacher,84756.0,28,PhD,0.1,0.78,0.12,Low
+Teacher,67309.0,12,High School,0.02,0.72,0.2,Low
+UX Researcher,101880.0,10,PhD,0.43,0.69,0.51,Medium
+UX Researcher,37011.0,4,Master's,0.46,0.74,0.48,Medium
+Chef,115934.0,13,PhD,0.69,0.5,0.67,Medium
+Research Scientist,118635.0,10,PhD,0.92,0.89,0.16,Low
+Security Guard,58645.0,18,Bachelor's,0.76,0.51,0.82,High
+Marketing Manager,131277.0,18,Master's,0.71,0.93,0.59,Medium
+Financial Analyst,85308.0,18,Bachelor's,0.72,0.81,0.31,Medium
+Financial Analyst,125711.0,14,PhD,0.51,0.8,0.36,Medium
+Chef,131011.0,4,High School,0.27,0.79,0.32,Medium
+HR Specialist,36588.0,14,Bachelor's,0.54,0.81,0.5,Medium
+Construction Worker,91860.0,15,High School,0.31,0.64,0.89,High
+Research Scientist,101812.0,24,Master's,0.58,0.59,0.18,Low
+Teacher,141176.0,2,Bachelor's,0.45,0.81,0.26,Low
+Mechanic,82546.0,25,High School,0.63,0.58,0.35,Medium
+Graphic Designer,40987.0,16,PhD,0.67,0.54,0.46,Medium
+Software Engineer,71397.0,15,High School,0.07,0.98,0.49,Medium
+Graphic Designer,66911.0,11,High School,0.86,0.69,0.4,Medium
+Data Scientist,42705.0,27,Bachelor's,0.64,0.59,0.31,Medium
+Truck Driver,99282.0,2,Master's,0.28,0.92,0.8,High
+Software Engineer,107275.0,19,Master's,0.96,0.52,0.61,Medium
+Financial Analyst,45573.0,2,High School,0.68,0.69,0.57,Medium
+Doctor,88826.0,6,PhD,0.46,0.61,0.12,Low
+Marketing Manager,87564.0,27,PhD,0.66,0.89,0.44,Medium
+UX Researcher,121396.0,16,PhD,0.31,0.88,0.5,Medium
+Doctor,87454.0,15,PhD,0.27,0.86,0.29,Low
+Teacher,127216.0,7,Master's,0.94,0.86,0.15,Low
+Software Engineer,76887.0,18,PhD,0.77,0.77,0.57,Medium
+Teacher,133323.0,3,Master's,0.09,0.89,0.2,Low
+Security Guard,119526.0,10,PhD,0.46,0.72,0.88,High
+Data Scientist,62676.0,4,PhD,0.16,0.75,0.66,Medium
+Software Engineer,68463.0,5,Bachelor's,0.78,0.81,0.58,Medium
+Software Engineer,52053.0,16,Bachelor's,0.74,0.7,0.38,Medium
+Software Engineer,65303.0,20,PhD,0.6,0.53,0.49,Medium
+Chef,34312.0,3,Bachelor's,0.63,0.79,0.34,Medium
+Nurse,69794.0,21,Bachelor's,0.54,0.66,0.17,Low
+Truck Driver,80102.0,23,Master's,0.09,0.78,0.77,High
+Construction Worker,106743.0,11,Master's,0.63,0.72,0.8,High
+Security Guard,67333.0,10,High School,0.12,0.99,0.73,High
+UX Researcher,33687.0,15,High School,0.64,0.87,0.64,Medium
+Customer Support,58777.0,18,Master's,0.28,0.56,0.78,High
+Graphic Designer,58915.0,24,Master's,0.84,0.56,0.54,Medium
+Lawyer,148222.0,2,PhD,0.8,0.75,0.32,Medium
+Teacher,112056.0,19,High School,0.79,0.66,0.11,Low
+Software Engineer,133144.0,16,Master's,0.66,0.51,0.36,Medium
+UX Researcher,141706.0,18,Bachelor's,0.67,0.89,0.46,Medium
+Construction Worker,60795.0,2,Bachelor's,0.58,0.59,0.79,High
+Security Guard,137729.0,26,Bachelor's,0.45,0.96,0.87,High
+HR Specialist,75487.0,2,High School,0.09,0.82,0.55,Medium
+Truck Driver,123258.0,17,Master's,0.26,0.89,0.83,High
+Construction Worker,142266.0,20,Master's,0.18,0.58,0.85,High
+HR Specialist,112833.0,24,High School,0.34,0.61,0.32,Medium
+Software Engineer,54608.0,4,High School,0.43,0.54,0.36,Medium
+Marketing Manager,41367.0,11,Bachelor's,0.66,0.91,0.5,Medium
+Security Guard,125504.0,14,High School,0.97,0.74,0.93,High
+Data Scientist,90302.0,18,PhD,0.64,0.5,0.4,Medium
+Customer Support,74956.0,1,High School,0.27,0.56,0.75,High
+Teacher,108872.0,16,High School,0.27,0.89,0.17,Low
+Customer Support,48481.0,9,Bachelor's,0.65,0.68,0.83,High
+Lawyer,100043.0,26,Master's,0.46,0.69,0.64,Medium
+Software Engineer,105069.0,12,Master's,0.82,0.98,0.6,Medium
+Teacher,82692.0,9,High School,0.46,0.77,0.16,Low
+Research Scientist,83433.0,4,Master's,0.73,0.99,0.07,Low
+Research Scientist,100935.0,5,PhD,0.89,0.58,0.2,Low
+Doctor,59483.0,25,High School,0.34,0.56,0.18,Low
+Customer Support,50746.0,12,Master's,0.95,0.87,0.95,High
+Doctor,104557.0,18,Master's,0.47,0.79,0.27,Low
+Software Engineer,116949.0,11,High School,0.29,0.98,0.65,Medium
+Data Scientist,88204.0,14,PhD,0.5,0.84,0.55,Medium
+Doctor,45089.0,4,PhD,0.96,0.65,0.29,Low
+Construction Worker,126621.0,13,High School,0.55,0.88,0.73,High
+Chef,107413.0,21,Bachelor's,0.7,0.85,0.48,Medium
+Research Scientist,106789.0,20,PhD,0.16,0.93,0.15,Low
+Customer Support,141459.0,26,PhD,0.02,0.7,0.8,High
+Graphic Designer,56107.0,24,High School,0.73,0.98,0.52,Medium
+Lawyer,98402.0,8,Bachelor's,0.47,0.7,0.43,Medium
+Security Guard,36005.0,14,High School,0.33,0.52,0.82,High
+Doctor,81038.0,25,Bachelor's,0.07,0.88,0.26,Low
+Lawyer,95217.0,16,Bachelor's,0.66,0.78,0.63,Medium
+UX Researcher,97323.0,19,Bachelor's,0.61,0.84,0.42,Medium
+Teacher,80049.0,19,Bachelor's,0.47,0.56,0.28,Low
+Nurse,48428.0,2,Master's,0.22,0.68,0.24,Low
+Marketing Manager,35973.0,2,High School,0.53,0.88,0.45,Medium
+Chef,138480.0,27,Bachelor's,0.12,0.95,0.47,Medium
+Doctor,118060.0,19,Bachelor's,0.26,0.76,0.14,Low
+Software Engineer,76905.0,12,High School,0.87,0.62,0.67,Medium
+Data Scientist,101341.0,15,High School,0.85,0.51,0.42,Medium
+Software Engineer,44057.0,5,High School,0.5,0.64,0.64,Medium
+Retail Worker,60185.0,28,High School,0.36,0.6,0.78,High
+Data Scientist,63797.0,24,Bachelor's,0.68,0.79,0.31,Medium
+HR Specialist,52792.0,6,High School,0.47,0.91,0.39,Medium
+Security Guard,117463.0,19,High School,0.06,0.9,0.8,High
+HR Specialist,40603.0,24,High School,0.49,0.94,0.42,Medium
+Teacher,106968.0,22,Master's,0.7,0.56,0.22,Low
+Graphic Designer,149700.0,26,PhD,0.79,0.79,0.61,Medium
+Marketing Manager,81356.0,7,High School,0.14,0.94,0.36,Medium
+Nurse,129928.0,0,Bachelor's,0.76,0.8,0.25,Low
+Truck Driver,51625.0,1,Bachelor's,0.61,0.74,0.75,High
+Chef,118760.0,20,High School,0.05,0.9,0.4,Medium
+Software Engineer,111299.0,27,High School,0.16,0.9,0.52,Medium
+UX Researcher,94535.0,1,High School,0.7,0.71,0.41,Medium
+Truck Driver,116030.0,1,Master's,0.79,0.88,0.95,High
+Construction Worker,82573.0,24,High School,0.95,0.74,0.89,High
+Doctor,44703.0,3,PhD,0.56,0.86,0.09,Low
+Research Scientist,44756.0,11,High School,0.2,0.86,0.29,Low
+Graphic Designer,45380.0,20,Bachelor's,0.04,1.0,0.32,Medium
+Construction Worker,135454.0,16,PhD,0.19,0.97,0.91,High
+Research Scientist,55903.0,23,Master's,0.26,0.68,0.09,Low
+Retail Worker,55036.0,21,High School,0.44,0.94,0.83,High
+Software Engineer,100412.0,21,Bachelor's,0.28,0.61,0.57,Medium
+Mechanic,140419.0,14,PhD,0.29,0.98,0.46,Medium
+Software Engineer,128757.0,14,PhD,0.41,0.85,0.34,Medium
+Construction Worker,59476.0,5,Master's,0.03,0.5,0.77,High
+UX Researcher,37769.0,22,PhD,0.41,0.96,0.33,Medium
+Security Guard,143645.0,26,Bachelor's,0.78,0.62,0.91,High
+HR Specialist,38152.0,6,High School,0.11,0.71,0.37,Medium
+Graphic Designer,134753.0,3,Master's,0.67,0.65,0.57,Medium
+HR Specialist,76350.0,12,High School,0.08,0.95,0.57,Medium
+Graphic Designer,37084.0,11,Bachelor's,0.97,0.84,0.35,Medium
+Security Guard,36486.0,5,Bachelor's,0.07,0.61,0.86,High
+Software Engineer,107925.0,19,PhD,0.77,1.0,0.62,Medium
+Mechanic,52474.0,27,Master's,0.17,0.91,0.34,Medium
+Marketing Manager,79696.0,28,PhD,0.31,0.94,0.44,Medium
+UX Researcher,82736.0,21,PhD,0.01,0.72,0.58,Medium
+Lawyer,107487.0,3,Bachelor's,0.05,0.58,0.32,Medium
+Chef,144571.0,22,Master's,0.38,0.68,0.56,Medium
+Software Engineer,112753.0,1,Master's,0.38,0.67,0.64,Medium
+Software Engineer,81716.0,26,Master's,0.88,0.66,0.47,Medium
+Doctor,102006.0,17,Bachelor's,0.14,0.84,0.25,Low
+Data Scientist,66742.0,3,High School,0.6,0.97,0.43,Medium
+Graphic Designer,119131.0,10,PhD,0.56,0.75,0.31,Medium
+HR Specialist,57788.0,14,PhD,0.68,0.82,0.35,Medium
+Mechanic,64712.0,19,PhD,0.65,0.78,0.62,Medium
+Financial Analyst,68319.0,6,Master's,0.43,0.84,0.54,Medium
+Retail Worker,67289.0,22,PhD,0.86,0.56,0.75,High
+Financial Analyst,64118.0,5,PhD,0.28,0.94,0.45,Medium
+Customer Support,62146.0,26,Master's,0.88,0.95,0.74,High
+Truck Driver,110449.0,21,High School,0.47,0.88,0.75,High
+Financial Analyst,142691.0,18,Master's,0.31,0.84,0.51,Medium
+Nurse,149401.0,18,High School,0.92,0.73,0.3,Low
+Lawyer,101160.0,3,High School,0.0,0.74,0.32,Medium
+Chef,66594.0,23,High School,0.65,0.65,0.55,Medium
+Nurse,110270.0,21,High School,0.83,0.84,0.07,Low
+Nurse,98393.0,29,High School,0.66,0.87,0.22,Low
+Lawyer,104088.0,11,PhD,0.99,0.65,0.54,Medium
+Marketing Manager,38290.0,27,PhD,0.27,0.99,0.58,Medium
+Chef,73532.0,24,Master's,0.25,0.73,0.65,Medium
+Nurse,132708.0,28,High School,0.07,0.89,0.26,Low
+Nurse,51219.0,14,Bachelor's,0.84,0.79,0.26,Low
+Graphic Designer,114899.0,19,Master's,0.47,0.57,0.5,Medium
+Retail Worker,63275.0,20,PhD,0.97,0.76,0.93,High
+Graphic Designer,79662.0,18,High School,0.47,0.63,0.47,Medium
+Research Scientist,103484.0,0,Master's,0.68,0.52,0.27,Low
+Security Guard,104035.0,19,Bachelor's,0.77,0.89,0.88,High
+Security Guard,56974.0,6,High School,0.14,0.54,0.7,Medium
+AI Engineer,58327.0,13,Master's,0.74,0.63,0.18,Low
+UX Researcher,105127.0,14,Bachelor's,0.6,0.52,0.43,Medium
+Lawyer,89397.0,11,Bachelor's,0.77,0.73,0.65,Medium
+Graphic Designer,137526.0,27,PhD,0.8,0.83,0.44,Medium
+Nurse,126482.0,14,PhD,0.65,0.56,0.25,Low
+UX Researcher,124274.0,26,High School,0.49,0.63,0.67,Medium
+AI Engineer,48246.0,10,High School,0.72,0.99,0.05,Low
+Security Guard,86470.0,11,Master's,0.92,0.84,0.8,High
+Data Scientist,74380.0,15,Master's,0.33,0.71,0.41,Medium
+Construction Worker,73302.0,10,High School,0.24,0.95,0.9,High
+Data Scientist,136974.0,26,Master's,0.25,0.53,0.68,Medium
+Graphic Designer,31987.0,7,High School,0.33,0.79,0.41,Medium
+Marketing Manager,102587.0,17,Bachelor's,0.37,0.7,0.41,Medium
+Doctor,56932.0,11,Bachelor's,0.38,0.63,0.25,Low
+Construction Worker,67970.0,19,PhD,0.98,0.68,0.82,High
+Data Scientist,57154.0,15,PhD,0.36,0.86,0.42,Medium
+Truck Driver,43174.0,1,PhD,0.22,0.99,0.81,High
+Data Scientist,123335.0,22,PhD,0.26,0.86,0.5,Medium
+Construction Worker,34650.0,3,PhD,0.03,0.54,0.81,High
+Lawyer,37317.0,0,High School,0.62,0.74,0.59,Medium
+Nurse,44316.0,28,Master's,0.62,0.88,0.22,Low
+Retail Worker,112142.0,7,PhD,0.54,0.85,0.76,High
+Customer Support,124939.0,22,High School,0.09,0.67,0.79,High
+Customer Support,125756.0,16,High School,0.85,0.77,0.91,High
+Retail Worker,53255.0,21,Bachelor's,0.32,0.79,0.82,High
+Customer Support,39304.0,25,High School,0.3,0.92,0.87,High
+Software Engineer,69819.0,4,Master's,0.63,0.63,0.39,Medium
+Research Scientist,75805.0,19,Bachelor's,0.78,0.58,0.09,Low
+Teacher,129417.0,23,Master's,0.33,0.71,0.28,Low
+Mechanic,46775.0,29,PhD,0.11,0.99,0.48,Medium
+Nurse,48224.0,22,Bachelor's,0.62,0.53,0.16,Low
+Graphic Designer,129391.0,13,Master's,0.5,0.6,0.4,Medium
+UX Researcher,127071.0,20,Master's,0.66,0.81,0.41,Medium
+Security Guard,59000.0,5,Bachelor's,0.9,0.8,0.8,High
+Truck Driver,45529.0,22,High School,0.5,0.51,0.85,High
+Security Guard,135312.0,28,High School,0.43,0.53,0.73,High
+Graphic Designer,71702.0,8,Bachelor's,0.35,0.91,0.35,Medium
+Retail Worker,123068.0,25,Master's,0.01,0.81,0.72,High
+Construction Worker,66704.0,18,PhD,0.98,0.57,0.83,High
+Customer Support,114532.0,0,Bachelor's,0.01,0.56,0.86,High
+Research Scientist,129211.0,27,Master's,0.14,0.9,0.06,Low
+Chef,59407.0,0,Bachelor's,0.78,0.53,0.61,Medium
+Doctor,120389.0,28,Master's,0.77,0.59,0.12,Low
+UX Researcher,128747.0,21,Bachelor's,0.64,0.79,0.4,Medium
+Mechanic,102593.0,22,Master's,0.15,0.84,0.32,Medium
+Teacher,57706.0,12,Master's,0.26,0.74,0.19,Low
+Security Guard,53665.0,21,High School,0.43,0.84,0.75,High
+Marketing Manager,37279.0,9,High School,0.52,0.54,0.39,Medium
+Graphic Designer,81454.0,18,High School,0.96,0.91,0.39,Medium
+Mechanic,122850.0,11,High School,0.37,0.87,0.6,Medium
+Software Engineer,80608.0,17,High School,0.06,0.56,0.45,Medium
+Marketing Manager,43606.0,29,High School,0.93,0.89,0.32,Medium
+Teacher,83568.0,29,PhD,0.64,0.53,0.22,Low
+UX Researcher,81638.0,21,High School,0.63,0.64,0.44,Medium
+Retail Worker,123309.0,25,High School,0.07,0.78,0.71,High
+Teacher,78179.0,18,Master's,0.93,0.7,0.05,Low
+Research Scientist,78139.0,11,Bachelor's,0.32,0.5,0.07,Low
+Data Scientist,104263.0,4,High School,0.02,0.97,0.61,Medium
+Teacher,33250.0,2,Master's,0.88,0.59,0.28,Low
+Security Guard,34965.0,8,Bachelor's,0.33,0.92,0.82,High
+UX Researcher,118458.0,27,Bachelor's,0.29,0.6,0.44,Medium
+Security Guard,99458.0,16,Bachelor's,0.85,0.91,0.94,High
+Nurse,34516.0,11,Bachelor's,0.91,0.57,0.24,Low
+Data Scientist,149359.0,0,PhD,0.47,0.68,0.53,Medium
+Data Scientist,117178.0,4,PhD,0.21,0.89,0.64,Medium
+Teacher,79216.0,21,Bachelor's,0.7,0.89,0.21,Low
+Retail Worker,107171.0,21,High School,0.02,0.92,0.87,High
+Teacher,30443.0,21,PhD,0.86,0.83,0.23,Low
+Mechanic,105494.0,7,Bachelor's,0.09,0.61,0.66,Medium
+Truck Driver,116065.0,9,PhD,0.84,0.58,0.74,High
+UX Researcher,61917.0,10,Master's,0.8,0.78,0.41,Medium
+Lawyer,138602.0,23,Master's,0.59,0.6,0.49,Medium
+Construction Worker,43322.0,3,PhD,0.79,0.76,0.9,High
+Retail Worker,143044.0,14,High School,0.52,0.64,0.81,High
+Construction Worker,128875.0,7,Bachelor's,0.54,0.96,0.78,High
+AI Engineer,130901.0,27,Master's,0.99,0.69,0.21,Low
+Teacher,138298.0,2,Master's,0.17,0.83,0.07,Low
+Retail Worker,44407.0,0,PhD,0.81,0.9,0.89,High
+AI Engineer,66738.0,18,High School,0.51,0.78,0.12,Low
+Teacher,125946.0,8,High School,0.17,0.94,0.29,Low
+Software Engineer,40037.0,25,Master's,0.72,0.53,0.34,Medium
+Truck Driver,77287.0,23,High School,0.1,0.5,0.7,Medium
+Lawyer,140263.0,12,High School,0.04,0.99,0.4,Medium
+Data Scientist,100363.0,11,Bachelor's,0.17,0.57,0.38,Medium
+Nurse,58911.0,8,High School,0.9,0.63,0.13,Low
+HR Specialist,105253.0,19,High School,0.79,0.95,0.57,Medium
+Construction Worker,38715.0,26,Master's,0.4,1.0,0.75,High
+Customer Support,85432.0,0,Bachelor's,0.81,0.72,0.82,High
+UX Researcher,140397.0,18,PhD,0.8,0.6,0.55,Medium
+Truck Driver,102620.0,8,Master's,0.83,0.58,0.86,High
+Chef,120833.0,16,High School,0.82,0.68,0.59,Medium
+Financial Analyst,77131.0,13,High School,0.06,0.68,0.43,Medium
+Construction Worker,131298.0,25,High School,0.55,0.93,0.73,High
+Construction Worker,104519.0,27,High School,0.87,0.56,0.92,High
+AI Engineer,121751.0,12,Master's,0.23,0.87,0.15,Low
+HR Specialist,91557.0,13,Bachelor's,0.95,0.82,0.44,Medium
+Financial Analyst,70508.0,10,Master's,0.91,0.73,0.53,Medium
+Research Scientist,81238.0,18,Master's,0.04,0.79,0.25,Low
+Retail Worker,49830.0,29,PhD,0.69,0.94,0.83,High
+Construction Worker,84255.0,1,High School,0.61,0.95,0.85,High
+Graphic Designer,130461.0,4,High School,0.31,0.6,0.66,Medium
+Construction Worker,127871.0,5,PhD,0.07,0.68,0.93,High
+Security Guard,108391.0,9,Bachelor's,0.21,0.64,0.89,High
+Doctor,106286.0,1,Master's,0.34,0.73,0.21,Low
+Software Engineer,92520.0,7,PhD,0.46,0.65,0.48,Medium
+Security Guard,60210.0,29,Master's,0.61,0.86,0.73,High
+HR Specialist,85099.0,9,Bachelor's,0.32,0.82,0.43,Medium
+Doctor,109791.0,2,PhD,0.98,0.65,0.28,Low
+Doctor,72048.0,27,Bachelor's,0.8,0.71,0.15,Low
+Retail Worker,105605.0,24,Master's,0.8,0.68,0.79,High
+Retail Worker,120811.0,25,Master's,0.05,0.81,0.87,High
+Truck Driver,115520.0,9,Master's,0.79,0.53,0.81,High
+Data Scientist,135341.0,14,High School,0.89,0.85,0.57,Medium
+HR Specialist,71503.0,10,High School,0.39,0.98,0.48,Medium
+Teacher,67624.0,17,High School,0.15,0.53,0.24,Low
+Retail Worker,144499.0,1,Master's,0.99,0.77,0.91,High
+Teacher,146585.0,29,High School,0.67,0.51,0.26,Low
+Teacher,140168.0,4,High School,0.55,1.0,0.13,Low
+Nurse,54195.0,25,Master's,0.18,0.52,0.09,Low
+AI Engineer,122079.0,12,Bachelor's,0.05,0.56,0.25,Low
+Chef,138165.0,26,PhD,0.52,0.67,0.62,Medium
+Teacher,85133.0,18,Master's,0.32,0.91,0.27,Low
+AI Engineer,82990.0,27,High School,0.1,0.88,0.3,Low
+Software Engineer,69379.0,26,Bachelor's,0.11,0.64,0.65,Medium
+Truck Driver,83242.0,19,High School,0.73,0.83,0.71,High
+Doctor,93611.0,13,Bachelor's,0.9,0.52,0.28,Low
+AI Engineer,78743.0,10,Master's,0.59,0.5,0.12,Low
+HR Specialist,107418.0,10,Bachelor's,0.5,0.95,0.61,Medium
+Security Guard,116472.0,13,Master's,0.27,0.99,0.93,High
+Chef,56025.0,28,High School,0.02,0.74,0.62,Medium
+Graphic Designer,51747.0,19,Bachelor's,0.67,0.99,0.57,Medium
+HR Specialist,50647.0,20,High School,0.02,0.81,0.35,Medium
+Nurse,134839.0,24,Master's,0.24,0.89,0.07,Low
+UX Researcher,94310.0,12,Bachelor's,0.91,0.62,0.37,Medium
+Software Engineer,67470.0,10,High School,0.09,0.66,0.54,Medium
+Lawyer,139055.0,22,Master's,0.14,0.86,0.33,Medium
+Research Scientist,31757.0,21,Bachelor's,0.39,0.95,0.25,Low
+Retail Worker,54524.0,19,Bachelor's,0.55,0.83,0.72,High
+Financial Analyst,43733.0,7,Master's,0.26,0.56,0.57,Medium
+AI Engineer,92086.0,21,Master's,0.14,0.52,0.27,Low
+Software Engineer,136565.0,22,Bachelor's,0.02,0.62,0.36,Medium
+Customer Support,53784.0,28,PhD,0.93,0.57,0.78,High
+Chef,123497.0,20,Master's,0.48,0.98,0.55,Medium
+Customer Support,71147.0,16,PhD,0.27,0.92,0.83,High
+Lawyer,106548.0,14,Master's,0.41,0.83,0.38,Medium
+Customer Support,50709.0,8,Master's,0.1,0.6,0.77,High
+Construction Worker,52489.0,28,PhD,0.46,0.52,0.85,High
+Truck Driver,123995.0,6,Bachelor's,0.17,0.65,0.89,High
+Nurse,116090.0,21,PhD,0.85,0.51,0.07,Low
+UX Researcher,84026.0,19,Master's,0.76,0.82,0.45,Medium
+Doctor,61171.0,13,Bachelor's,0.12,0.83,0.17,Low
+Customer Support,120061.0,16,Master's,0.82,0.71,0.93,High
+Truck Driver,143357.0,22,Master's,0.66,0.51,0.73,High
+HR Specialist,101543.0,2,Master's,0.06,0.61,0.61,Medium
+Nurse,129691.0,18,High School,0.33,0.71,0.3,Low
+Marketing Manager,33814.0,28,High School,0.32,0.63,0.49,Medium
+Software Engineer,104892.0,28,Master's,0.78,0.76,0.41,Medium
+Graphic Designer,65878.0,27,High School,0.66,0.89,0.57,Medium
+Retail Worker,144742.0,13,PhD,0.78,0.66,0.8,High
+Research Scientist,38794.0,6,PhD,0.05,0.98,0.28,Low
+Mechanic,130854.0,10,Master's,0.21,0.91,0.38,Medium
+Mechanic,100286.0,28,High School,0.24,0.81,0.53,Medium
+Construction Worker,129646.0,20,Bachelor's,0.42,0.81,0.94,High
+Software Engineer,82445.0,25,Bachelor's,0.19,0.57,0.56,Medium
+Truck Driver,45485.0,4,PhD,0.17,0.74,0.89,High
+Security Guard,53953.0,29,Master's,0.83,0.8,0.84,High
+Security Guard,39160.0,26,PhD,0.1,0.66,0.92,High
+Security Guard,100717.0,16,High School,0.16,0.57,0.9,High
+Lawyer,95635.0,1,PhD,0.27,0.91,0.59,Medium
+Software Engineer,57762.0,7,Bachelor's,0.89,0.51,0.61,Medium
+Teacher,95888.0,15,High School,0.68,0.82,0.14,Low
+Teacher,133992.0,1,High School,0.89,0.65,0.22,Low
+Data Scientist,30645.0,4,High School,0.9,0.79,0.4,Medium
+Lawyer,62256.0,7,Bachelor's,0.81,0.73,0.44,Medium
+Nurse,144009.0,2,Master's,0.55,0.69,0.14,Low
+Research Scientist,137541.0,1,Master's,0.98,0.85,0.08,Low
+Data Scientist,45890.0,19,PhD,0.59,0.6,0.43,Medium
+Research Scientist,72582.0,22,Master's,0.68,0.72,0.14,Low
+Doctor,64091.0,8,Master's,0.26,0.84,0.09,Low
+Data Scientist,51946.0,13,High School,0.74,0.61,0.65,Medium
+Customer Support,92294.0,11,Master's,0.74,0.67,0.86,High
+Teacher,101022.0,17,PhD,0.65,0.58,0.06,Low
+HR Specialist,138176.0,7,Master's,0.56,0.56,0.53,Medium
+Chef,55759.0,24,Master's,0.51,0.8,0.63,Medium
+Security Guard,37589.0,18,Bachelor's,0.5,0.95,0.9,High
+Truck Driver,119485.0,21,High School,0.25,0.67,0.82,High
+Security Guard,55090.0,8,Bachelor's,0.68,0.89,0.73,High
+Chef,93282.0,29,Master's,0.67,1.0,0.63,Medium
+Teacher,40892.0,19,PhD,0.5,0.83,0.14,Low
+Teacher,56006.0,13,Master's,0.47,0.52,0.25,Low
+Truck Driver,60805.0,20,Bachelor's,0.31,0.66,0.79,High
+Data Scientist,70344.0,14,High School,0.65,0.55,0.42,Medium
+Truck Driver,62185.0,5,High School,0.87,0.59,0.76,High
+HR Specialist,133060.0,9,High School,0.52,0.8,0.4,Medium
+Doctor,149756.0,8,High School,0.64,0.67,0.07,Low
+Retail Worker,31981.0,7,Master's,0.95,0.94,0.71,High
+Construction Worker,89434.0,5,PhD,0.82,0.51,0.84,High
+Nurse,73159.0,20,Bachelor's,0.02,0.56,0.08,Low
+Teacher,65357.0,3,Bachelor's,0.01,0.91,0.11,Low
+Nurse,79684.0,7,Master's,0.43,0.67,0.3,Low
+Research Scientist,90273.0,25,Bachelor's,0.38,0.69,0.17,Low
+Customer Support,85547.0,1,PhD,0.01,0.72,0.88,High
+Lawyer,117429.0,26,PhD,0.63,0.72,0.4,Medium
+Construction Worker,74056.0,23,Bachelor's,0.39,0.6,0.78,High
+Retail Worker,54287.0,4,High School,0.3,0.57,0.95,High
+Teacher,113192.0,28,High School,0.83,0.74,0.28,Low
+Teacher,128740.0,9,Bachelor's,0.23,0.63,0.27,Low
+UX Researcher,78416.0,13,Bachelor's,0.18,0.96,0.48,Medium
+Financial Analyst,62081.0,26,PhD,0.05,0.58,0.58,Medium
+Lawyer,129443.0,7,PhD,0.3,0.53,0.61,Medium
+Data Scientist,55482.0,13,High School,0.3,0.77,0.56,Medium
+UX Researcher,43997.0,29,PhD,0.34,0.63,0.55,Medium
+Lawyer,66258.0,11,PhD,0.43,0.72,0.47,Medium
+Data Scientist,135071.0,26,High School,0.86,0.91,0.49,Medium
+Marketing Manager,50954.0,29,Bachelor's,0.49,0.51,0.57,Medium
+HR Specialist,118035.0,16,Bachelor's,0.78,0.69,0.58,Medium
+HR Specialist,111506.0,23,Bachelor's,0.52,0.8,0.59,Medium
+Marketing Manager,104644.0,7,Master's,0.86,0.5,0.54,Medium
+Retail Worker,119374.0,27,Bachelor's,0.47,0.8,0.88,High
+Research Scientist,113453.0,18,PhD,0.42,0.85,0.07,Low
+Security Guard,52879.0,25,PhD,0.38,0.71,0.82,High
+Doctor,69812.0,26,PhD,0.67,0.51,0.27,Low
+Retail Worker,73105.0,23,PhD,0.53,0.91,0.86,High
+Security Guard,147323.0,9,Master's,0.62,0.67,0.77,High
+Software Engineer,97720.0,13,Master's,0.27,0.72,0.44,Medium
+Financial Analyst,30877.0,20,High School,0.05,0.61,0.48,Medium
+AI Engineer,38499.0,9,Master's,0.47,0.82,0.15,Low
+Graphic Designer,95490.0,17,High School,0.09,0.96,0.7,Medium
+Research Scientist,41808.0,24,Bachelor's,0.7,0.78,0.3,Low
+Software Engineer,44903.0,18,Master's,0.38,0.52,0.3,Low
+UX Researcher,93615.0,16,High School,0.01,0.98,0.35,Medium
+AI Engineer,81141.0,10,Bachelor's,0.13,0.67,0.27,Low
+Truck Driver,126705.0,27,Master's,0.67,0.66,0.76,High
+Customer Support,57254.0,8,Bachelor's,0.58,0.83,0.84,High
+Truck Driver,71689.0,28,Bachelor's,0.96,0.56,0.71,High
+AI Engineer,49546.0,5,High School,0.22,0.89,0.26,Low
+Truck Driver,41398.0,22,High School,0.32,0.9,0.91,High
+UX Researcher,73042.0,28,Master's,0.41,0.58,0.55,Medium
+Mechanic,110094.0,10,PhD,0.13,0.74,0.57,Medium
+UX Researcher,126155.0,9,High School,0.41,0.71,0.58,Medium
+Lawyer,139791.0,4,PhD,0.66,0.61,0.66,Medium
+UX Researcher,94558.0,25,High School,0.16,0.88,0.49,Medium
+Marketing Manager,125980.0,1,High School,0.46,0.76,0.54,Medium
+Research Scientist,54829.0,26,PhD,0.97,0.51,0.29,Low
+Nurse,30733.0,7,Bachelor's,0.89,0.69,0.19,Low
+Research Scientist,145386.0,21,Master's,0.88,0.82,0.21,Low
+Nurse,101360.0,9,High School,0.42,0.63,0.22,Low
+Customer Support,97310.0,29,PhD,0.39,0.53,0.93,High
+Customer Support,121111.0,6,Bachelor's,0.32,1.0,0.89,High
+Chef,56187.0,17,Bachelor's,0.56,0.6,0.53,Medium
+AI Engineer,89376.0,8,PhD,0.18,0.67,0.06,Low
+UX Researcher,55401.0,21,Bachelor's,0.21,0.5,0.36,Medium
+Doctor,140177.0,24,Bachelor's,0.4,0.84,0.25,Low
+Teacher,39612.0,10,Master's,0.19,1.0,0.3,Low
+Construction Worker,106554.0,21,High School,0.55,0.54,0.73,High
+HR Specialist,97173.0,3,High School,0.07,0.98,0.67,Medium
+Software Engineer,44517.0,3,Bachelor's,0.59,0.71,0.54,Medium
+Data Scientist,35335.0,13,High School,0.57,0.58,0.69,Medium
+UX Researcher,61232.0,15,Master's,0.79,0.69,0.44,Medium
+Graphic Designer,78720.0,29,PhD,0.33,0.51,0.68,Medium
+Marketing Manager,113128.0,7,High School,0.34,0.72,0.66,Medium
+UX Researcher,57177.0,0,Master's,0.85,0.65,0.44,Medium
+Marketing Manager,85572.0,8,Master's,0.87,0.71,0.31,Medium
+Mechanic,147849.0,12,Master's,0.24,0.61,0.35,Medium
+Nurse,126080.0,1,High School,0.29,0.94,0.14,Low
+Construction Worker,34844.0,22,PhD,0.14,0.77,0.77,High
+Truck Driver,42485.0,16,High School,0.48,0.79,0.94,High
+Software Engineer,103147.0,13,Master's,0.04,0.7,0.56,Medium
+Customer Support,66598.0,8,PhD,0.59,0.94,0.77,High
+Retail Worker,132916.0,27,PhD,0.3,0.95,0.88,High
+Marketing Manager,139940.0,6,PhD,0.01,0.51,0.52,Medium
+UX Researcher,115639.0,9,PhD,0.98,0.51,0.5,Medium
+Financial Analyst,98384.0,13,Bachelor's,0.63,0.57,0.37,Medium
+Graphic Designer,102433.0,29,Master's,0.64,0.66,0.42,Medium
+Marketing Manager,127550.0,15,Bachelor's,0.11,0.83,0.4,Medium
+Financial Analyst,141075.0,11,High School,0.65,0.66,0.43,Medium
+Teacher,35853.0,18,Master's,0.07,0.54,0.22,Low
+Teacher,95311.0,28,High School,0.91,0.66,0.22,Low
+Lawyer,68211.0,4,PhD,0.2,0.91,0.52,Medium
+HR Specialist,58454.0,29,PhD,0.52,0.63,0.35,Medium
+Financial Analyst,97855.0,3,Master's,0.19,0.5,0.34,Medium
+Construction Worker,127891.0,23,PhD,1.0,0.51,0.74,High
+Mechanic,141579.0,13,PhD,0.8,0.87,0.36,Medium
+Retail Worker,64907.0,10,PhD,0.79,0.87,0.88,High
+Nurse,147754.0,11,Bachelor's,0.72,0.53,0.24,Low
+Nurse,61937.0,1,High School,0.54,0.87,0.27,Low
+Data Scientist,41593.0,25,Bachelor's,0.49,0.7,0.64,Medium
+Research Scientist,75337.0,2,Master's,0.23,0.85,0.18,Low
+Chef,142467.0,3,Master's,0.61,0.65,0.35,Medium
+Marketing Manager,62611.0,3,PhD,0.93,0.93,0.66,Medium
+Construction Worker,58419.0,26,PhD,0.03,0.87,0.71,High
+UX Researcher,125640.0,2,High School,0.29,0.89,0.5,Medium
+Security Guard,112654.0,15,High School,0.82,0.75,0.74,High
+Mechanic,109398.0,18,PhD,0.58,0.77,0.33,Medium
+Truck Driver,139240.0,10,PhD,0.68,0.85,0.92,High
+Data Scientist,143089.0,15,Bachelor's,0.68,0.58,0.47,Medium
+Doctor,104657.0,5,Master's,0.63,0.67,0.27,Low
+Financial Analyst,44835.0,8,Master's,0.23,0.98,0.48,Medium
+Construction Worker,67293.0,25,Master's,0.01,0.6,0.78,High
+AI Engineer,68690.0,13,Bachelor's,0.88,0.6,0.16,Low
+AI Engineer,45234.0,1,Master's,0.4,0.9,0.24,Low
+Financial Analyst,120052.0,3,Bachelor's,0.39,0.76,0.66,Medium
+Data Scientist,40270.0,19,High School,0.51,0.99,0.62,Medium
+Graphic Designer,52562.0,3,PhD,0.41,0.64,0.55,Medium
+Financial Analyst,52065.0,27,Bachelor's,0.86,1.0,0.41,Medium
+HR Specialist,67098.0,17,Master's,0.48,0.91,0.49,Medium
+Security Guard,112802.0,7,Bachelor's,0.96,0.88,0.75,High
+Teacher,48609.0,0,PhD,0.45,0.69,0.12,Low
+Financial Analyst,138629.0,15,PhD,0.37,0.81,0.36,Medium
+Financial Analyst,53481.0,4,Bachelor's,0.2,0.7,0.35,Medium
+Teacher,137271.0,4,PhD,0.47,0.93,0.25,Low
+UX Researcher,87623.0,12,High School,0.94,0.72,0.62,Medium
+Doctor,140427.0,23,PhD,0.53,0.5,0.25,Low
+Teacher,73281.0,15,High School,0.1,0.74,0.14,Low
+HR Specialist,66492.0,3,High School,0.01,0.91,0.59,Medium
+Data Scientist,52368.0,8,PhD,0.01,0.76,0.49,Medium
+Security Guard,113302.0,14,Master's,0.7,0.59,0.9,High
+Chef,80901.0,17,Master's,0.77,0.62,0.58,Medium
+UX Researcher,68197.0,23,High School,0.87,0.89,0.62,Medium
+Teacher,101721.0,9,Master's,0.22,0.91,0.15,Low
+Mechanic,125101.0,12,Bachelor's,0.52,0.62,0.39,Medium
+Security Guard,143605.0,3,Master's,0.13,0.67,0.87,High
+Research Scientist,34273.0,13,PhD,0.64,0.88,0.09,Low
+Graphic Designer,125325.0,25,PhD,0.8,0.74,0.5,Medium
+Marketing Manager,106145.0,25,High School,0.43,0.96,0.51,Medium
+Nurse,94322.0,12,Bachelor's,0.48,0.86,0.29,Low
+Retail Worker,97504.0,3,Bachelor's,0.49,0.66,0.87,High
+Graphic Designer,64897.0,11,Master's,0.91,0.97,0.36,Medium
+Lawyer,59362.0,18,Master's,0.27,0.8,0.65,Medium
+Financial Analyst,73518.0,2,High School,0.21,0.63,0.4,Medium
+Mechanic,138460.0,20,Bachelor's,0.65,0.99,0.6,Medium
+Data Scientist,73489.0,2,Master's,0.32,0.93,0.34,Medium
+Mechanic,77687.0,28,Bachelor's,0.03,0.72,0.45,Medium
+Truck Driver,40128.0,23,Master's,0.86,0.71,0.86,High
+Research Scientist,105505.0,12,Bachelor's,0.47,0.52,0.07,Low
+AI Engineer,81108.0,6,Master's,0.48,0.9,0.17,Low
+Customer Support,113499.0,6,Master's,0.17,0.93,0.94,High
+Construction Worker,99226.0,11,High School,0.26,0.76,0.93,High
+UX Researcher,35499.0,27,Master's,0.27,0.64,0.58,Medium
+Retail Worker,59737.0,15,Bachelor's,0.92,0.99,0.9,High
+Customer Support,36534.0,24,High School,0.8,0.75,0.71,High
+Research Scientist,85012.0,4,Master's,0.53,0.63,0.17,Low
+UX Researcher,89151.0,8,PhD,0.08,0.86,0.5,Medium
+AI Engineer,68899.0,11,Bachelor's,0.76,0.7,0.28,Low
+HR Specialist,47928.0,17,High School,0.78,0.81,0.32,Medium
+Truck Driver,75018.0,16,High School,0.55,0.93,0.83,High
+AI Engineer,43096.0,26,PhD,0.63,0.98,0.3,Low
+Chef,69029.0,23,High School,0.61,0.73,0.6,Medium
+Customer Support,94918.0,29,PhD,0.93,0.52,0.86,High
+HR Specialist,129895.0,29,High School,0.24,0.53,0.59,Medium
+Mechanic,41329.0,24,Bachelor's,0.33,0.72,0.68,Medium
+Graphic Designer,107011.0,24,Master's,0.72,0.86,0.5,Medium
+Mechanic,116377.0,6,PhD,0.36,0.79,0.54,Medium
+Doctor,96360.0,15,Master's,0.66,0.8,0.07,Low
+Nurse,103850.0,7,Master's,0.29,0.9,0.22,Low
+AI Engineer,117133.0,23,High School,0.09,0.61,0.29,Low
+Nurse,125065.0,13,Master's,0.89,0.5,0.18,Low
+Security Guard,147600.0,8,Master's,0.19,0.92,0.82,High
+Software Engineer,96333.0,15,Master's,0.82,0.54,0.5,Medium
+Mechanic,126847.0,29,High School,0.73,0.95,0.51,Medium
+Truck Driver,92244.0,20,PhD,0.85,0.53,0.75,High
+Doctor,93810.0,28,High School,0.5,0.57,0.15,Low
+AI Engineer,127211.0,12,PhD,0.62,0.54,0.17,Low
+Mechanic,35455.0,12,High School,0.38,0.64,0.5,Medium
+Customer Support,81428.0,5,Master's,0.56,0.82,0.82,High
+Financial Analyst,62947.0,12,Bachelor's,0.22,0.72,0.35,Medium
+AI Engineer,66497.0,8,High School,0.15,0.64,0.18,Low
+Software Engineer,91140.0,6,Master's,0.11,0.55,0.39,Medium
+Customer Support,31234.0,28,High School,0.31,0.97,0.76,High
+Retail Worker,34677.0,0,Master's,0.94,0.99,0.72,High
+Data Scientist,125288.0,8,Master's,0.92,0.93,0.37,Medium
+Mechanic,62953.0,29,High School,0.26,0.97,0.56,Medium
+Retail Worker,99754.0,1,Master's,0.18,0.6,0.76,High
+Chef,53473.0,25,Master's,0.25,0.67,0.43,Medium
+Construction Worker,34564.0,0,Bachelor's,0.2,0.62,0.91,High
+Graphic Designer,144486.0,28,Master's,0.75,0.7,0.53,Medium
+Data Scientist,136766.0,3,Master's,0.17,0.88,0.51,Medium
+Chef,139097.0,23,Bachelor's,0.47,0.82,0.44,Medium
+Customer Support,97004.0,8,Bachelor's,0.18,0.94,0.78,High
+Graphic Designer,114191.0,24,PhD,0.73,0.56,0.68,Medium
+Teacher,41918.0,24,High School,0.53,0.56,0.26,Low
+Research Scientist,132013.0,1,High School,0.58,0.68,0.09,Low
+Nurse,51798.0,0,PhD,0.08,0.66,0.27,Low
+Graphic Designer,135959.0,29,High School,0.43,0.93,0.52,Medium
+Mechanic,129721.0,14,Master's,0.12,0.98,0.48,Medium
+Nurse,98132.0,29,High School,0.15,0.79,0.15,Low
+Graphic Designer,141318.0,10,High School,0.59,0.63,0.36,Medium
+Data Scientist,107974.0,6,Bachelor's,0.41,0.72,0.43,Medium
+Research Scientist,89876.0,10,Master's,0.35,0.68,0.12,Low
+Graphic Designer,144947.0,14,Master's,0.71,0.73,0.52,Medium
+Mechanic,75631.0,9,Bachelor's,0.68,0.54,0.63,Medium
+Marketing Manager,85753.0,3,High School,0.55,0.89,0.33,Medium
+Customer Support,106258.0,19,PhD,0.55,0.58,0.9,High
+Data Scientist,101060.0,4,Master's,0.07,0.68,0.41,Medium
+Graphic Designer,57814.0,1,PhD,0.39,0.56,0.5,Medium
+Graphic Designer,104336.0,21,Master's,0.21,0.84,0.44,Medium
+Security Guard,143398.0,11,High School,0.25,0.52,0.82,High
+Retail Worker,132676.0,23,Master's,0.34,0.99,0.91,High
+Mechanic,54569.0,29,PhD,0.38,0.67,0.61,Medium
+Truck Driver,83638.0,15,Bachelor's,0.46,0.7,0.76,High
+Research Scientist,121190.0,16,High School,0.01,0.68,0.21,Low
+Teacher,84916.0,13,High School,0.15,0.9,0.14,Low
+UX Researcher,113253.0,10,Master's,0.89,0.78,0.39,Medium
+Customer Support,140217.0,21,High School,0.05,0.54,0.71,High
+UX Researcher,133970.0,23,Master's,0.51,0.87,0.48,Medium
+Financial Analyst,65340.0,11,High School,0.28,0.59,0.5,Medium
+Construction Worker,94605.0,27,Master's,0.8,0.83,0.84,High
+Graphic Designer,132025.0,3,Bachelor's,0.55,0.87,0.65,Medium
+Teacher,82913.0,27,Bachelor's,0.77,0.86,0.12,Low
+Retail Worker,70294.0,16,PhD,0.76,0.63,0.94,High
+AI Engineer,110381.0,9,Bachelor's,0.35,0.84,0.26,Low
+Truck Driver,142488.0,4,PhD,0.98,0.8,0.77,High
+UX Researcher,35749.0,24,High School,0.62,0.68,0.42,Medium
+Retail Worker,135718.0,4,Bachelor's,0.56,0.74,0.88,High
+Retail Worker,53876.0,18,PhD,0.58,0.72,0.77,High
+Marketing Manager,56513.0,11,PhD,0.48,0.58,0.33,Medium
+Lawyer,125564.0,15,Master's,0.03,1.0,0.33,Medium
+Software Engineer,138482.0,23,Bachelor's,0.5,0.9,0.39,Medium
+Doctor,143169.0,0,Bachelor's,0.69,0.7,0.17,Low
+AI Engineer,90924.0,11,PhD,0.46,0.84,0.16,Low
+Mechanic,135963.0,23,PhD,0.01,0.76,0.46,Medium
+Marketing Manager,46294.0,4,Master's,0.26,0.55,0.44,Medium
+Software Engineer,34383.0,24,Master's,0.5,0.86,0.35,Medium
+Doctor,93742.0,18,Bachelor's,0.96,0.91,0.23,Low
+Security Guard,55281.0,25,PhD,0.91,0.79,0.91,High
+Teacher,35143.0,10,High School,0.19,0.99,0.18,Low
+Marketing Manager,67404.0,17,Master's,0.14,0.52,0.42,Medium
+Chef,68191.0,7,High School,0.15,0.93,0.4,Medium
+UX Researcher,114815.0,15,PhD,0.95,0.72,0.49,Medium
+Customer Support,145427.0,7,Master's,0.78,0.77,0.82,High
+Customer Support,142113.0,11,Bachelor's,0.43,0.87,0.85,High
+Truck Driver,111912.0,10,PhD,0.51,0.96,0.86,High
+Lawyer,100174.0,20,PhD,0.42,0.54,0.59,Medium
+Truck Driver,62864.0,29,Master's,0.71,0.93,0.92,High
+AI Engineer,102135.0,15,Master's,0.45,0.65,0.19,Low
+Doctor,120061.0,26,Bachelor's,0.09,0.84,0.12,Low
+HR Specialist,115424.0,27,PhD,0.73,0.51,0.34,Medium
+Marketing Manager,61973.0,11,High School,0.45,0.77,0.67,Medium
+Doctor,73904.0,2,Bachelor's,0.64,0.71,0.2,Low
+UX Researcher,131937.0,24,Bachelor's,0.37,0.7,0.43,Medium
+Graphic Designer,122928.0,23,Master's,0.5,0.91,0.67,Medium
+Lawyer,92058.0,1,PhD,0.55,0.76,0.63,Medium
+Security Guard,63445.0,14,PhD,0.52,0.89,0.89,High
+Retail Worker,88851.0,0,Bachelor's,0.42,1.0,0.72,High
+AI Engineer,94127.0,13,Master's,0.18,0.92,0.23,Low
+Software Engineer,36384.0,13,PhD,0.45,0.57,0.46,Medium
+Software Engineer,87803.0,1,High School,0.65,0.92,0.58,Medium
+Customer Support,73307.0,20,PhD,0.4,0.78,0.85,High
+UX Researcher,82025.0,10,PhD,0.66,0.98,0.68,Medium
+Lawyer,121676.0,21,Master's,0.31,0.58,0.52,Medium
+Security Guard,145614.0,28,High School,0.82,0.82,0.72,High
+Truck Driver,133601.0,9,Master's,0.3,0.63,0.93,High
+Financial Analyst,32894.0,3,Bachelor's,0.19,0.79,0.38,Medium
+Data Scientist,65714.0,11,High School,0.74,0.69,0.63,Medium
+Nurse,115236.0,23,High School,0.81,0.95,0.05,Low
+Graphic Designer,111779.0,22,Bachelor's,0.49,0.94,0.51,Medium
+HR Specialist,140564.0,22,Bachelor's,0.48,0.7,0.34,Medium
+Construction Worker,108256.0,23,Master's,0.64,0.88,0.82,High
+Data Scientist,117377.0,1,Bachelor's,0.93,0.9,0.48,Medium
+Security Guard,39479.0,19,Bachelor's,0.05,0.54,0.86,High
+Construction Worker,130003.0,19,High School,0.92,0.79,0.71,High
+Chef,67631.0,21,Master's,0.6,0.99,0.32,Medium
+Construction Worker,116425.0,27,Master's,0.34,0.83,0.94,High
+Software Engineer,119643.0,4,PhD,0.08,0.76,0.59,Medium
+Construction Worker,56108.0,28,High School,0.28,0.89,0.76,High
+Nurse,43077.0,5,High School,0.29,0.78,0.06,Low
+HR Specialist,52989.0,20,PhD,0.62,0.91,0.57,Medium
+Construction Worker,45580.0,4,High School,0.13,0.74,0.71,High
+Nurse,107863.0,15,PhD,0.87,0.98,0.29,Low
+HR Specialist,73622.0,14,High School,0.28,0.55,0.48,Medium
+Lawyer,36944.0,29,Master's,0.87,0.52,0.52,Medium
+AI Engineer,36357.0,27,Bachelor's,0.06,0.57,0.2,Low
+Security Guard,130709.0,29,Bachelor's,0.32,0.73,0.94,High
+Financial Analyst,135383.0,29,Master's,0.39,0.54,0.51,Medium
+Truck Driver,58212.0,13,Master's,0.2,0.79,0.76,High
+Mechanic,65630.0,6,Master's,0.48,0.89,0.6,Medium
+Marketing Manager,63144.0,24,PhD,0.41,0.81,0.45,Medium
+Mechanic,43785.0,27,Master's,0.99,0.5,0.69,Medium
+Research Scientist,41151.0,22,High School,0.57,0.98,0.13,Low
+Nurse,136933.0,16,Bachelor's,0.21,0.97,0.29,Low
+Doctor,43739.0,17,PhD,0.75,0.69,0.14,Low
+Graphic Designer,96321.0,2,Bachelor's,0.11,0.71,0.64,Medium
+Software Engineer,94314.0,10,Bachelor's,0.06,0.92,0.38,Medium
+Lawyer,35555.0,4,Bachelor's,0.89,0.88,0.45,Medium
+Security Guard,79326.0,16,PhD,0.24,0.62,0.71,High
+Financial Analyst,114141.0,22,Master's,0.03,0.79,0.44,Medium
+Chef,65120.0,7,Bachelor's,0.18,0.98,0.38,Medium
+Teacher,36902.0,13,Master's,0.85,0.82,0.06,Low
+Truck Driver,77373.0,29,High School,0.57,0.64,0.76,High
+Teacher,57309.0,16,PhD,0.7,0.63,0.21,Low
+AI Engineer,104010.0,16,Master's,0.35,0.98,0.12,Low
+Graphic Designer,125076.0,26,High School,0.49,0.52,0.66,Medium
+Customer Support,45281.0,15,High School,0.06,0.77,0.92,High
+Software Engineer,54192.0,5,High School,0.93,0.64,0.58,Medium
+AI Engineer,90486.0,8,Master's,0.62,0.99,0.05,Low
+Doctor,58465.0,0,High School,0.53,0.87,0.17,Low
+Security Guard,81469.0,14,Master's,0.27,0.55,0.8,High
+Lawyer,36086.0,22,PhD,0.7,0.62,0.46,Medium
+Nurse,65906.0,18,Bachelor's,0.7,0.7,0.14,Low
+Chef,91894.0,22,PhD,0.94,0.72,0.34,Medium
+Security Guard,33827.0,10,High School,0.37,0.75,0.95,High
+Lawyer,103038.0,28,High School,0.51,0.61,0.33,Medium
+Marketing Manager,87657.0,18,Master's,0.95,0.77,0.57,Medium
+Retail Worker,121860.0,21,PhD,0.24,0.56,0.82,High
+Data Scientist,125798.0,4,Bachelor's,0.31,0.81,0.4,Medium
+Research Scientist,69802.0,9,Bachelor's,0.58,0.85,0.19,Low
+HR Specialist,86832.0,18,Master's,0.6,0.77,0.38,Medium
+HR Specialist,143959.0,27,PhD,0.86,1.0,0.38,Medium
+Software Engineer,50852.0,24,PhD,0.65,0.67,0.31,Medium
+Mechanic,99191.0,17,Master's,0.29,0.89,0.69,Medium
+Software Engineer,69537.0,25,Master's,0.96,0.87,0.4,Medium
+Customer Support,34096.0,4,Master's,0.64,0.83,0.76,High
+Truck Driver,63434.0,27,Master's,0.54,0.96,0.78,High
+UX Researcher,81358.0,29,Bachelor's,0.53,0.73,0.35,Medium
+Marketing Manager,80626.0,29,Master's,0.59,0.92,0.33,Medium
+Retail Worker,59638.0,22,PhD,0.62,0.9,0.74,High
+HR Specialist,30030.0,9,Bachelor's,0.25,0.88,0.37,Medium
+UX Researcher,145156.0,27,Bachelor's,0.15,0.54,0.47,Medium
+UX Researcher,83207.0,3,Master's,0.51,0.62,0.46,Medium
+Research Scientist,86834.0,15,PhD,0.99,0.67,0.11,Low
+Marketing Manager,133988.0,7,Master's,0.18,0.84,0.37,Medium
+Retail Worker,80942.0,18,Master's,0.36,0.72,0.75,High
+Customer Support,133274.0,27,PhD,0.15,1.0,0.8,High
+Retail Worker,49826.0,9,Master's,0.35,0.99,0.85,High
+Retail Worker,97116.0,26,PhD,0.8,0.56,0.8,High
+Construction Worker,33388.0,3,PhD,0.48,0.79,0.89,High
+Software Engineer,58797.0,18,Master's,0.83,0.64,0.44,Medium
+Chef,54996.0,12,Bachelor's,0.59,0.96,0.41,Medium
+UX Researcher,136165.0,26,PhD,0.15,0.62,0.64,Medium
+AI Engineer,126681.0,18,High School,0.32,0.96,0.21,Low
+Marketing Manager,148083.0,14,High School,0.89,0.51,0.48,Medium
+Teacher,145915.0,13,Bachelor's,0.84,0.59,0.07,Low
+Truck Driver,45002.0,5,PhD,0.35,0.75,0.8,High
+Construction Worker,117927.0,23,Master's,0.58,0.67,0.87,High
+Graphic Designer,111301.0,1,Bachelor's,0.85,0.55,0.49,Medium
+Research Scientist,138560.0,16,Master's,0.24,0.66,0.11,Low
+Doctor,41430.0,13,PhD,0.28,0.69,0.16,Low
+Customer Support,61658.0,10,Master's,0.41,0.54,0.71,High
+Research Scientist,39788.0,6,PhD,0.03,0.72,0.23,Low
+Security Guard,88215.0,5,PhD,0.04,0.78,0.74,High
+Nurse,145571.0,4,High School,0.23,0.57,0.23,Low
+Software Engineer,106733.0,4,High School,0.21,0.6,0.41,Medium
+AI Engineer,128725.0,7,Master's,0.05,0.96,0.21,Low
+Software Engineer,112669.0,29,High School,0.64,0.63,0.31,Medium
+Mechanic,72428.0,9,Bachelor's,0.23,0.99,0.47,Medium
+Nurse,42199.0,0,Bachelor's,0.84,0.99,0.26,Low
+Truck Driver,91638.0,28,PhD,0.89,0.61,0.77,High
+Customer Support,79584.0,15,Bachelor's,0.55,0.84,0.71,High
+Construction Worker,134065.0,29,PhD,0.33,0.93,0.76,High
+Chef,61474.0,23,High School,0.7,0.56,0.42,Medium
+Research Scientist,45285.0,9,High School,0.65,0.99,0.26,Low
+Mechanic,90993.0,17,Master's,0.65,0.97,0.54,Medium
+Retail Worker,115059.0,3,Master's,0.76,0.51,0.94,High
+Truck Driver,84853.0,25,Bachelor's,0.47,0.73,0.78,High
+Research Scientist,75357.0,9,PhD,0.33,0.95,0.3,Low
+Construction Worker,102730.0,21,PhD,0.38,0.74,0.7,Medium
+UX Researcher,84887.0,26,Bachelor's,0.32,0.92,0.67,Medium
+Nurse,34008.0,18,High School,0.85,0.91,0.25,Low
+Graphic Designer,105328.0,5,High School,0.86,0.9,0.55,Medium
+Teacher,105755.0,27,High School,0.37,0.84,0.3,Low
+HR Specialist,42430.0,28,Master's,0.77,0.65,0.69,Medium
+Mechanic,67088.0,22,Master's,0.39,0.91,0.57,Medium
+Data Scientist,74181.0,21,Master's,0.76,0.52,0.45,Medium
+Data Scientist,72734.0,1,PhD,0.31,0.5,0.43,Medium
+Doctor,108806.0,16,High School,0.36,0.54,0.1,Low
+Graphic Designer,110296.0,28,Bachelor's,0.94,0.52,0.6,Medium
+Software Engineer,120236.0,7,Master's,0.89,0.83,0.55,Medium
+Data Scientist,89550.0,7,Bachelor's,0.45,0.75,0.32,Medium
+Financial Analyst,134242.0,0,High School,0.89,0.65,0.6,Medium
+UX Researcher,72408.0,29,Bachelor's,0.21,0.99,0.33,Medium
+Teacher,63791.0,21,Bachelor's,0.19,0.65,0.1,Low
+Customer Support,70840.0,17,Master's,0.6,0.93,0.72,High
+Research Scientist,108275.0,22,High School,0.56,0.87,0.1,Low
+Retail Worker,32570.0,7,Bachelor's,0.38,0.67,0.76,High
+Retail Worker,80258.0,12,Bachelor's,0.2,0.91,0.88,High
+Data Scientist,34970.0,6,Bachelor's,0.91,0.99,0.67,Medium
+HR Specialist,101126.0,5,High School,0.68,0.55,0.4,Medium
+Data Scientist,123686.0,7,Bachelor's,0.85,0.9,0.7,Medium
+Financial Analyst,39421.0,10,Master's,0.85,0.91,0.52,Medium
+AI Engineer,78448.0,25,High School,0.27,0.58,0.28,Low
+Mechanic,86686.0,18,High School,0.91,0.83,0.47,Medium
+UX Researcher,44363.0,29,PhD,0.65,0.74,0.35,Medium
+Data Scientist,61325.0,23,Master's,0.64,0.94,0.39,Medium
+Graphic Designer,123909.0,25,PhD,0.69,0.56,0.49,Medium
