@@ -1,0 +1,30 @@
+<h2>Add Job</h2>
+<form method="POST" action="/add">
+    <input name="job_title" placeholder="Job Title">
+    <input name="salary" placeholder="Salary">
+    <input name="experience" placeholder="Experience">
+    <input name="education" placeholder="Education">
+    <input name="ai_index" placeholder="AI Index">
+    <input name="growth" placeholder="Growth">
+    <input name="automation" placeholder="Automation">
+    
+    <select name="risk">
+        <option>Low</option>
+        <option>Medium</option>
+        <option>High</option>
+    </select>
+
+    <button type="submit">Add</button>
+</form>
+
+<hr>
+
+<h2>All Jobs</h2>
+
+{% for job in jobs %}
+    <p>
+        {{ job[0] }} | {{ job[1] }} | {{ job[7] }}
+
+        <a href="/delete/{{ job[0] }}">Delete</a>
+    </p>
+{% endfor %}
